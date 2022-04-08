@@ -325,7 +325,7 @@ figure {
 }
 
 .btn-style-one:hover {
-  background: var(--thm-base);
+  background: var(--thm-dark-blue);
   color: #ffffff;
 }
 
@@ -4003,7 +4003,7 @@ img.lazy-image.loaded {
   height: 90px;
   line-height: 24px;
   text-align: center;
-  background: var(--thm-black);
+  background: var(--thm-dark-blue);
   text-transform: uppercase;
   color: #ffffff;
   border-radius: 50%;
@@ -4436,7 +4436,7 @@ img.lazy-image.loaded {
   bottom: 18px;
   width: 40px;
   height: 22px;
-  background: var(--thm-black);
+  background: var(--thm-dark-blue);
   color: #ffffff;
   line-height: 22px;
   font-size: 14px;
@@ -6578,7 +6578,7 @@ img.lazy-image.loaded {
   font-size: 60px;
   line-height: 0.85em;
   text-transform: uppercase;
-  color: var(--thm-black);
+  color: var(--thm-dark-blue);
   font-weight: 500;
   margin: 0px 0px 25px;
   z-index: 3;
@@ -11349,7 +11349,7 @@ img.lazy-image.loaded {
 }
 
 .contact-section .info-block .inner-box:hover {
-  background: var(--thm-black);
+  background: var(--thm-dark-blue);
 }
 
 .contact-section .info-block .inner-box h5 {

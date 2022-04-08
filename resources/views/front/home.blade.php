@@ -55,18 +55,16 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h2>We’re the best agency <br>in downtown<span class="dot">.</span></h2>
-                        <div class="lower-text">We are committed to providing our customers with exceptional
-                            service while offering our employees the best training.</div>
+                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Productiona, Shaq House and Treven Cleaners, the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
-                        <p>Lorem Ipsum is simply dummy text of free available in market the printing and
-                            typesetting industry has been the industry's standard dummy text ever.</p>
+                        <p>Venshaq Holding is a market-leading range of Commercial Cleaning, Food and Beverage and Enterntaiment. </p>
                     </div>
                     <div class="text clearfix">
                         <ul>
-                            <li>Suspe ndisse suscipit sagittis leo.</li>
-                            <li>Entum estibulum dignissim posuere.</li>
-                            <li>If you are going to use a passage.</li>
+                            <li>Commercial Cleaning</li>
+                            <li>Film Productions and Enterntainment.</li>
+                            <li>Farming,Fast Food & Beverage</li>
                         </ul>
                         <div class="since"><span class="txt">Since <br>2018</span></div>
                     </div>
@@ -426,7 +424,7 @@
                         <div class="inner">
                             <div class="content">
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="4000" data-stop="8705">0</span>
+                                    <span class="count-text" data-speed="4000" data-stop="248">0</span>
                                 </div>
                                 <div class="counter-title">Projects Completed</div>
                             </div>
@@ -438,7 +436,7 @@
                         <div class="inner">
                             <div class="content">
                                 <div class="count-outer count-box alternate">
-                                    <span class="count-text" data-speed="3000" data-stop="480">0</span>
+                                    <span class="count-text" data-speed="3000" data-stop="88">0</span>
                                 </div>
                                 <div class="counter-title">Active clients</div>
                             </div>
@@ -450,9 +448,9 @@
                         <div class="inner">
                             <div class="content">
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="3000" data-stop="626">0</span>
+                                    <span class="count-text" data-speed="3000" data-stop="4">0</span>
                                 </div>
-                                <div class="counter-title">cups of coffee</div>
+                                <div class="counter-title">Companies</div>
                             </div>
                         </div>
                     </div>
@@ -462,7 +460,7 @@
                         <div class="inner">
                             <div class="content">
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="4000" data-stop="9704">0</span>
+                                    <span class="count-text" data-speed="4000" data-stop="248">0</span>
                                 </div>
                                 <div class="counter-title">happy clients</div>
                             </div>
@@ -486,10 +484,10 @@
                     <div class="inner">
                         <div class="col-header">
                             <div class="header-inner">
-                                <span>We’re Committed To Deliver High Quality Projects .</span>
+                                <span>We’re Committed To Deliver Amaizingly UnMatched Product & Services.</span>
                             </div>
                         </div>
-                        <div class="features">
+                        {{-- <div class="features">
                             <div class="feature">
                                 <div class="count"><span>01</span></div>
                                 <h5>TOTAL DESIGN FREEDOM FOR EVERYONE</h5>
@@ -500,18 +498,18 @@
                                 <h5>BASIC RULES OF RUNNING WEB AGENCY</h5>
                                 <div class="sub-text">core features</div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="right-col col-xl-7 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
                         <div class="sec-title">
-                            <h2>We’re trusted by more <br>than 6260 clients<span class="dot">.</span></h2>
-                            <div class="lower-text">There are many variations of passages of Lorem Ipsum
+                            <h2>We’re trusted by more <br>than 100 clients<span class="dot">.</span></h2>
+                            {{-- <div class="lower-text">There are many variations of passages of Lorem Ipsum
                                 available, but the majority have suffered alteration in some form, simply free
-                                text by injected humour, or randomised.</div>
+                                text by injected humour, or randomised.</div> --}}
                         </div>
-                        <div class="featured-block-two clearfix">
+                        {{-- <div class="featured-block-two clearfix">
                             <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-5.jpg')}}" alt=""></div>
                             <div class="text">
                                 <ul>
@@ -521,7 +519,7 @@
                                     <li>Lorem Ipsum on the tend to repeat.</li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
 
@@ -531,7 +529,7 @@
 </section>
 
 <!-- Team Section -->
-<section class="team-section no-padd-top" id="team">
+<section class="team-section no-padd-top" id="team" style="position: relative; padding: 120px 0px; background: #ffffff url('{{asset('venshaq/images/background/pattern-2.png')}}') left top repeat; overflow: hidden;">
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Meet the expert team<span class="dot">.</span></h2>
@@ -1010,9 +1008,9 @@
         <div class="inner clearfix">
             <div class="shape-1 wow slideInRight" data-wow-delay="0ms" data-wow-duration="1500ms"></div>
             <div class="shape-2 wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms"></div>
-            <h2>Let's Get Your Project <br>Started!</h2>
+            <h2>Let's Get in Touch  <br>Today!</h2>
             <div class="link-box">
-                <a class="theme-btn btn-style-two" href="about.html">
+                <a class="theme-btn btn-style-two" href="mailto:info@venshaq.com">
                     <i class="btn-curve"></i>
                     <span class="btn-title">Contact with us</span>
                 </a>

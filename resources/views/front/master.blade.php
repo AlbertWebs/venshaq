@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>venshaq. - DIgital Agency HTML Template | Home 03</title>
+    <title>Venshaq Holdings Limited. - DIgital Agency HTML Template | Home 03</title>
     <!-- Stylesheets -->
     <link rel="preconnect" href="fonts.gstatic.com/index.html">
     <link
@@ -264,7 +264,7 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner clearfix">
-                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Hldings Limited All Rights Reserved</div>
+                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Holdings Limited All Rights Reserved</div>
                     </div>
                 </div>
             </div>

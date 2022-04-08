@@ -2596,10 +2596,10 @@ img.lazy-image.loaded {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
-  filter: grayscale(100%);
+  filter: grayscale(100%); */
   -webkit-transform: scale(1);
           transform: scale(1);
 }
@@ -3141,6 +3141,7 @@ img.lazy-image.loaded {
   position: relative;
   top: auto;
   right: auto;
+  display: none;
 }
 
 /* banner four */
@@ -23968,3 +23969,34 @@ img.lazy-image.loaded {
           animation-duration: 1500ms;
 }
 /*# sourceMappingURL=style.css.map */
+
+.theme-color{
+    color:#A59164 !important;
+}
+
+.contact-sticky{
+    position: absolute;
+    top:35%;
+    right:-45px !important;
+    background-color: #0C2435;
+    color:#ffffff;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+    z-index: 999;
+    padding: 10px 15px 10px 15px;
+    border-radius:10px;
+    margin: 0px !important;
+    text-transform: uppercase;
+}
+
+.contact-sticky span{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.contact-sticky:hover{
+    color:#A59164;
+}

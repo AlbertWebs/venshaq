@@ -6,21 +6,22 @@
     <div class="banner-carousel owl-theme owl-carousel">
         <!-- Slide Item -->
         <div class="slide-item">
-            <div class="image-layer" style="background-image: url(images/main-slider/2-1.jpg);"></div>
+            <a href="mailto:info@venshaq.com" class="contact-sticky">More Info <span class="fa fa-envelope"></span></a>
+            <div class="image-layer" style="background-image: url({{asset('venshaq/images/Nairobi.jpg')}});"></div>
 
             <div class="auto-container">
                 <div class="content-box">
                     <div class="content">
                         <div class="inner text-center">
-                            <div class="sub-title">welcome to venshaq. agency</div>
-                            <h1>Discover <br> <span>new venshaq. agency</span></h1>
-                            <div class="link-box">
-                                <a class="theme-btn btn-style-one" href="about.html">
+                            <div class="sub-title theme-color">Venshaq Holdings Limited</div>
+                            <h1><span>Accelerating Sustainable Business Growth</span></h1>
+                            <div class="link-box scrollToLink">
+                                <a class="theme-btn btn-style-one" href="#about">
                                     <i class="btn-curve"></i>
                                     <span class="btn-title">Discover More</span>
                                 </a>
                                 <div class="vid-link">
-                                    <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                    <a href="https://www.youtube.com/watch?v=0Az_rMDh-aI"
                                         class="lightbox-image">
                                         <div class="icon"><span class="flaticon-play-button-1"></span><i
                                                 class="ripple"></i></div>
@@ -32,36 +33,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- Slide Item -->
-        <div class="slide-item">
-            <div class="image-layer" style="background-image: url(images/main-slider/2-2.jpg);"></div>
-
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="content">
-                        <div class="inner text-center">
-                            <div class="sub-title">welcome to venshaq. agency</div>
-                            <h1>Discover <br> <span>new venshaq. agency</span></h1>
-                            <div class="link-box">
-                                <a class="theme-btn btn-style-one" href="about.html">
-                                    <i class="btn-curve"></i>
-                                    <span class="btn-title">Discover More</span>
-                                </a>
-                                <div class="vid-link">
-                                    <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
-                                        class="lightbox-image">
-                                        <div class="icon"><span class="flaticon-play-button-1"></span><i
-                                                class="ripple"></i></div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
     </div>
 </section>
 <!--End Banner Section -->
@@ -74,9 +45,9 @@
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img
-                            src="images/resource/featured-image-1.jpg" alt=""></div>
+                            src="{{asset('venshaq/images/resource/featured-image-1.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms"><img
-                            src="images/resource/featured-image-2.jpg" alt=""></div>
+                            src="{{asset('venshaq/images/resource/featured-image-2.jpg')}}" alt=""></div>
                 </div>
             </div>
             <!--Text Column-->
@@ -97,12 +68,12 @@
                             <li>Entum estibulum dignissim posuere.</li>
                             <li>If you are going to use a passage.</li>
                         </ul>
-                        <div class="since"><span class="txt">Since <br>2008</span></div>
+                        <div class="since"><span class="txt">Since <br>2018</span></div>
                     </div>
-                    <div class="link-box">
-                        <a class="theme-btn btn-style-one" href="about.html">
+                    <div class="link-box scrollToLink">
+                        <a class="theme-btn btn-style-one" href="#team">
                             <i class="btn-curve"></i>
-                            <span class="btn-title">Discover More</span>
+                            <span class="btn-title">Discover Companies</span>
                         </a>
                     </div>
                 </div>
@@ -212,7 +183,7 @@
                         <h2>We do more then ever <br>platforms<span class="dot">.</span></h2>
                     </div>
                     <div class="featured-block clearfix">
-                        <div class="image"><img src="images/resource/featured-image-4.jpg" alt=""></div>
+                        <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-4.jpg')}}" alt=""></div>
                         <div class="text">There are many variatns of passages the majority have suffered
                             alteration in some foor randomised words believable.</div>
                     </div>
@@ -308,8 +279,8 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item mix all web-design col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/1.jpg" alt=""></figure>
-                        <a href="images/gallery/1.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/1.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/1.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -325,8 +296,8 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item mix all photography web-design col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/2.jpg" alt=""></figure>
-                        <a href="images/gallery/2.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/2.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/2.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -342,8 +313,8 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item mix all branding web-design col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/3.jpg" alt=""></figure>
-                        <a href="images/gallery/3.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/3.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/3.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -359,8 +330,8 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item mix all branding illustration col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/4.jpg" alt=""></figure>
-                        <a href="images/gallery/4.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/4.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/4.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -377,8 +348,8 @@
                 <div
                     class="gallery-item mix all branding illustration photography web-design col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/5.jpg" alt=""></figure>
-                        <a href="images/gallery/5.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/5.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/5.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -394,8 +365,8 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item mix all illustration photography col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
-                        <figure class="image"><img src="images/gallery/6.jpg" alt=""></figure>
-                        <a href="images/gallery/6.jpg" class="lightbox-image overlay-box"
+                        <figure class="image"><img src="{{asset('venshaq/images/gallery/6.jpg')}}" alt=""></figure>
+                        <a href="images/gallery/6.jpg')}}" class="lightbox-image overlay-box"
                             data-fancybox="gallery"></a>
                         <div class="cap-box">
                             <div class="cap-inner">
@@ -419,7 +390,7 @@
 <!-- Funfacts Section -->
 <section class="facts-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
     <!-- <div class="image-layer" style="background-image: url(images/background/image-1.jpg);"></div> -->
-    <img src="images/background/image-1.jpg" alt="" class="jarallax-img">
+    <img src="{{asset('venshaq/images/background/image-1.jpg')}}" alt="" class="jarallax-img">
     <div class="auto-container">
         <div class="inner-container">
 
@@ -518,7 +489,7 @@
                                 text by injected humour, or randomised.</div>
                         </div>
                         <div class="featured-block-two clearfix">
-                            <div class="image"><img src="images/resource/featured-image-5.jpg" alt=""></div>
+                            <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-5.jpg')}}" alt=""></div>
                             <div class="text">
                                 <ul>
                                     <li> Suspe ndisse sagittis leo.</li>
@@ -550,7 +521,7 @@
                 <div class="team-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <a href="about.html"><img src="images/resource/team-1.jpg" alt=""></a>
+                            <a href="about.html"><img src="{{asset('venshaq/images/resource/team-1.jpg')}}" alt=""></a>
                             <ul class="social-links clearfix">
                                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -569,7 +540,7 @@
                 <div class="team-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <a href="about.html"><img src="images/resource/team-2.jpg" alt=""></a>
+                            <a href="about.html"><img src="{{asset('venshaq/images/resource/team-2.jpg')}}" alt=""></a>
                             <ul class="social-links clearfix">
                                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -588,7 +559,7 @@
                 <div class="team-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <a href="about.html"><img src="images/resource/team-3.jpg" alt=""></a>
+                            <a href="about.html"><img src="{{asset('venshaq/images/resource/team-3.jpg')}}" alt=""></a>
                             <ul class="social-links clearfix">
                                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -614,7 +585,7 @@
 <!-- Parallax Section -->
 <section class="parallax-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
     <!-- <div class="image-layer" style="background-image: url(images/background/image-2.jpg);"></div> -->
-    <img src="images/background/image-2.jpg" alt="" class="jarallax-img">
+    <img src="{{asset('venshaq/images/background/image-2.jpg')}}" alt="" class="jarallax-img">
     <div class="auto-container">
         <div class="content-box">
             <div class="icon-box"><span class="flaticon-app-development"></span></div>
@@ -637,7 +608,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-1.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-1.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Shirley Smith</div>
                             <div class="designation">Director</div>
@@ -651,7 +622,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-2.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-2.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Mike hardson</div>
                             <div class="designation">Director</div>
@@ -665,7 +636,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-3.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-3.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Sarah albert</div>
                             <div class="designation">Director</div>
@@ -679,7 +650,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-1.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-1.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Shirley Smith</div>
                             <div class="designation">Director</div>
@@ -693,7 +664,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-2.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-2.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Mike hardson</div>
                             <div class="designation">Director</div>
@@ -707,7 +678,7 @@
                     <div class="inner">
                         <div class="icon"><span>“</span></div>
                         <div class="info">
-                            <div class="image"><a href="team.html"><img src="images/resource/author-3.jpg"
+                            <div class="image"><a href="team.html"><img src="{{asset('venshaq/images/resource/author-3.jpg')}}"
                                         alt=""></a></div>
                             <div class="name">Sarah albert</div>
                             <div class="designation">Director</div>
@@ -732,34 +703,34 @@
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/1.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/2.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/3.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/4.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/5.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/1.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/2.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/3.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/4.png')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/5.png')}}" alt=""></a></figure>
                 </div>
             </div>
         </div>
@@ -779,7 +750,7 @@
                 data-wow-duration="1500ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a>
+                        <a href="blog-single.html"><img src="{{asset('venshaq/images/resource/news-1.jpg')}}" alt=""></a>
                     </div>
                     <div class="lower-box">
                         <div class="post-meta">
@@ -801,7 +772,7 @@
                 data-wow-duration="1500ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <a href="blog-single.html"><img src="images/resource/news-2.jpg" alt=""></a>
+                        <a href="blog-single.html"><img src="{{asset('venshaq/images/resource/news-2.jpg')}}" alt=""></a>
                     </div>
                     <div class="lower-box">
                         <div class="post-meta">
@@ -823,7 +794,7 @@
                 data-wow-duration="1500ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <a href="blog-single.html"><img src="images/resource/news-3.jpg" alt=""></a>
+                        <a href="blog-single.html"><img src="{{asset('venshaq/images/resource/news-3.jpg')}}" alt=""></a>
                     </div>
                     <div class="lower-box">
                         <div class="post-meta">

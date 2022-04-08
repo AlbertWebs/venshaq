@@ -30,7 +30,7 @@
     <link rel="stylesheet" id="jssDefault" href="{{asset('venshaq/css/colors/color-default.css')}}">
 
     <link rel="shortcut icon" href="{{asset('venshaq/images/favicon.png')}}" id="fav-shortcut" type="image/x-icon">
-    <link rel="icon" href="{{asset('venshaq/images/favicon.png" id="fav-icon')}}" type="image/x-icon">
+    <link rel="icon" href="{{asset('venshaq/images/favicon.png')}}" id="fav-icon')}}" type="image/x-icon">
 
     <!-- Responsive Settings -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,51 +43,7 @@
 
     <div class="page-wrapper">
 
-        <!-- style switcher -->
-        <div class="style-switcher">
-            <a href="#" id="switcher-toggler"><i class="fa fa-cog"></i></a>
-            <h3>Color Skins</h3>
-            <ul id="styleOptions" title="Switch Color">
-                <li>
-                    <a href="#" data-theme="color-default" class="color-default">
 
-                    </a>
-                </li>
-                <li>
-                    <a href="#" data-theme="color-2" class="color-2">
-
-                    </a>
-                </li>
-                <li>
-                    <a href="#" data-theme="color-3" class="color-3">
-
-                    </a>
-                </li>
-                <li>
-                    <a href="#" data-theme="color-4" class="color-4">
-
-                    </a>
-                </li>
-                <li>
-                    <a href="#" data-theme="color-5" class="color-5">
-
-                    </a>
-                </li>
-                <li>
-                    <a href="#" data-theme="color-6" class="color-6">
-
-                    </a>
-                </li>
-            </ul>
-            <div class="language-feature">
-                <button class="ltr-switcher" data-href="#googtrans(en|en)">LTR</button><!-- /.ltr-switcher -->
-                <button class="rtl-switcher" data-href="#googtrans(en|ar)">RTL</button><!-- /.rtl-switcher -->
-            </div><!-- /.language-feature -->
-            <div class="layout-feature">
-                <a href="#" class="dark-switcher">Dark</a>
-                <button class="boxed-switcher">Boxed</button><!-- /.ltr-switcher -->
-            </div><!-- /.language-feature -->
-        </div>
         <!-- Preloader -->
         <div class="preloader">
             <div class="icon"></div>
@@ -101,10 +57,14 @@
                 <div class="inner-container clearfix">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html" title="venshaq. - DIgital Agency HTML Template"><img
-                                    src="images/logo-dark.png" id="dLogo" class="main-logo"
-                                    alt="venshaq. - DIgital Agency HTML Template"
-                                    title="venshaq. - DIgital Agency HTML Template"></a></div>
+                        <div class="logo">
+                            <a href="index.html" title="venshaq. - DIgital Agency HTML Template">
+                                    <img
+                                    src="{{asset('venshaq/images/logo-dark.png')}}" id="dLogo" class="main-logo"
+                                    alt="venshaq holdings Limited"
+                                    title="venshaq holdings Limited">
+                            </a>
+                        </div>
                     </div>
                     <div class="nav-outer clearfix">
                         <!--Mobile Navigation Toggler-->
@@ -115,33 +75,12 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix one-page-scroll-menu">
-                                    <li class="dropdown">
-                                        <a href="one-page.html">Home</a>
-                                        <ul>
-                                            <li><a href="index-main.html">Home Style 01</a></li>
-                                            <li><a href="index-2.html">Home Style 02</a></li>
-                                            <li><a href="index-3.html">Home Style 03</a></li>
-                                            <li><a href="one-page.html">Home One Page</a></li>
-                                            <li><a href="index-4.html">Home Style 04 </a></li>
-                                            <li><a href="index-5.html">Home Style 05</a></li>
-                                            <li><a href="index-6.html">Home Style 06 <span>new</span></a></li>
-                                            <li><a href="index-7.html">Home Style 07 <span>new</span></a></li>
-                                            <li><a href="index-8.html">Home Style 08 <span>new</span></a></li>
-                                            <li><a href="index-portfolio.html">Portfolio Home </a>
-                                            <li><a href="index-portfolio-2.html">Portfolio Home 02 </a>
-                                            <li><a href="index-portfolio-3.html">Portfolio Home 03 </a>
-                                            </li>
-                                            <li><a href="index-parallax.html">Parallax Home</a>
-                                            </li>
-                                            <li><a href="index-dark.html">Dark Home </a></li>
-                                            <li><a href="index-boxed.html">Boxed Home </a></li>
-                                        </ul>
-                                    </li>
+                                    <li class="scrollToLink"><a href="#home">Home</a></li>
                                     <li class="scrollToLink"><a href="#about">About</a></li>
                                     <li class="scrollToLink"><a href="#services">Services</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
-                                    <li class="scrollToLink"><a href="#team">Team</a></li>
-                                    <li class="scrollToLink"><a href="#testimonials">Testimonials</a></li>
+                                    <li class="scrollToLink"><a href="#team">Companies</a></li>
+
                                     <li class="scrollToLink"><a href="#blog">Blog</a></li>
                                     <li class="scrollToLink"><a href="#contact">Contact</a></li>
                                 </ul>
@@ -150,22 +89,18 @@
                     </div>
 
                     <div class="other-links clearfix">
-                        <!-- cart btn -->
-                        <div class="cart-btn">
-                            <a href="cart.html" class="theme-btn cart-toggler"><span
-                                    class="flaticon-shopping-cart"></span></a>
-                        </div>
                         <!--Search Btn-->
                         <div class="search-btn">
                             <button type="button" class="theme-btn search-toggler"><span
                                     class="flaticon-loupe"></span></button>
                         </div>
+
                         <div class="link-box">
                             <div class="call-us">
-                                <a class="link" href="tel:6668880000">
+                                <a class="link" href="tel:+1 (202) 540 0134">
                                     <span class="icon"></span>
                                     <span class="sub-text">Call Anytime</span>
-                                    <span class="number">666 888 0000</span>
+                                    <span class="number">+1 (202) 540 0134</span>
                                 </a>
                             </div>
                         </div>
@@ -190,7 +125,7 @@
             <div class="side-menu__block-inner ">
                 <div class="side-menu__top justify-content-end">
 
-                    <a href="#" class="side-menu__toggler side-menu__close-btn"><img src="images/icons/close-1-1.png"
+                    <a href="#" class="side-menu__toggler side-menu__close-btn"><img src="{{asset('venshaq/images/icons/close-1-1.png')}}"
                             alt=""></a>
                 </div><!-- /.side-menu__top -->
 
@@ -243,7 +178,7 @@
                             <div class="footer-widget logo-widget">
                                 <div class="widget-content">
                                     <div class="logo">
-                                        <a href="index.html"><img id="fLogo" src="images/footer-logo.png" alt="" /></a>
+                                        <a href="index.html"><img id="fLogo" src="{{asset('venshaq/images/footer-logo.png')}}" alt="" /></a>
                                     </div>
                                     <div class="text">Welcome to our web design agency. Lorem ipsum simply free text
                                         dolor sited amet cons cing elit.</div>

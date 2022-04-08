@@ -24001,5 +24001,8 @@ img.lazy-image.loaded {
     color:#A59164;
 }
 
+@media (max-width: 568px) {
+    .contact-sticky{display: none;}
+}
 
 

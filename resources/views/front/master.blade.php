@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Venshaq Holdings Limited. - DIgital Agency HTML Template | Home 03</title>
+    <title>Venshaq Holdings Limited | Home</title>
     <!-- Stylesheets -->
     <link rel="preconnect" href="fonts.gstatic.com/index.html">
     <link

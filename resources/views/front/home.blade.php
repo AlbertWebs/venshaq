@@ -45,16 +45,16 @@
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img
-                            src="{{asset('venshaq/images/resource/featured-image-1.jpg')}}" alt=""></div>
+                            src="{{asset('venshaq/images/resource/featured-image.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms"><img
-                            src="{{asset('venshaq/images/resource/featured-image-2.jpg')}}" alt=""></div>
+                            src="{{asset('venshaq/images/resource/featured-images.jpg')}}" alt=""></div>
                 </div>
             </div>
             <!--Text Column-->
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        <h2>We’re the best agency <br>in downtown<span class="dot">.</span></h2>
+                        <h2>We’re a proffessional multi-industry<br>Agency<span class="dot">.</span></h2>
                         <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Productiona, Shaq House and Treven Cleaners, the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
@@ -148,7 +148,7 @@
             <h2>Experience us live<span class="dot">.</span></h2>
         </div>
         <div class="main-image-box">
-            <div class="image-layer" style="background-image: url({{asset('venshaq/images/resource/featured-image-3.jpg')}});"></div>
+            <div class="image-layer" style="background-image: url({{asset('venshaq/images/resource/pexels-christina-morillo-1181406.jpg')}});"></div>
             <div class="inner clearfix">
                 <div class="round-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="round-inner">
@@ -272,140 +272,7 @@
     </div>
 </section>
 
-<!-- Gallery Section -->
-<section class="gallery-section" id="portfolio">
-    <div class="auto-container">
-        <!--MixitUp Galery-->
-        <div class="mixitup-gallery">
-            <div class="upper-row clearfix">
-                <div class="sec-title">
-                    <h2>work showcase<span class="dot">.</span></h2>
-                </div>
-                <!--Filter-->
-                <div class="filters clearfix">
-                    <ul class="filter-tabs filter-btns clearfix">
-                        <li class="active filter" data-role="button" data-filter="all">All<sup>[6]</sup></li>
-                        <li class="filter" data-role="button" data-filter=".branding">Branding<sup>[3]</sup>
-                        </li>
-                        <li class="filter" data-role="button" data-filter=".illustration">
-                            illustration<sup>[3]</sup></li>
-                        <li class="filter" data-role="button" data-filter=".photography">
-                            Photography<sup>[3]</sup></li>
-                        <li class="filter" data-role="button" data-filter=".web-design">Web Design<sup>[4]</sup>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="filter-list row">
-                <!-- Gallery Item -->
-                <div class="gallery-item mix all web-design col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/1.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/1.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <!-- Gallery Item -->
-                <div class="gallery-item mix all photography web-design col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/2.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/2.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Gallery Item -->
-                <div class="gallery-item mix all branding web-design col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/3.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/3.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Gallery Item -->
-                <div class="gallery-item mix all branding illustration col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/4.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/4.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Gallery Item -->
-                <div
-                    class="gallery-item mix all branding illustration photography web-design col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/5.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/5.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Gallery Item -->
-                <div class="gallery-item mix all illustration photography col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><img src="{{asset('venshaq/images/gallery/6.jpg')}}" alt=""></figure>
-                        <a href="images/gallery/6.jpg')}}" class="lightbox-image overlay-box"
-                            data-fancybox="gallery"></a>
-                        <div class="cap-box">
-                            <div class="cap-inner">
-                                <div class="cat"><span>Graphic</span></div>
-                                <div class="title">
-                                    <h5><a href="#">Fimlor Experience</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-</section>
 
 
 <!-- Funfacts Section -->
@@ -606,7 +473,7 @@
 <!-- Parallax Section -->
 <section class="parallax-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
     <!-- <div class="image-layer" style="background-image: url(images/background/image-2.jpg);"></div> -->
-    <img src="{{asset('venshaq/images/background/image-2.jpg')}}" alt="" class="jarallax-img">
+    <img src="{{asset('venshaq/images/resource/pexels-christina-morillo-1181406.jpg')}}" alt="" class="jarallax-img">
     <div class="auto-container">
         <div class="content-box">
             <div class="icon-box"><span class="flaticon-app-development"></span></div>
@@ -863,7 +730,7 @@
                             <li>
                                 <span class="icon flaticon-call"></span>
                                 <strong>Call now</strong>
-                                <a href="tel:666888000">666 888 000</a>
+                                <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a>
                             </li>
                         </ul>
                     </div>

@@ -77,7 +77,7 @@
                                 <ul class="navigation clearfix one-page-scroll-menu">
                                     <li class="scrollToLink"><a href="#home">Home</a></li>
                                     <li class="scrollToLink"><a href="#about">About</a></li>
-                                    <li class="scrollToLink"><a href="#services">Services</a></li>
+                                    <li class="scrollToLink"><a href="#industries">Industries</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
                                     <li class="scrollToLink"><a href="#team">Companies</a></li>
 
@@ -135,15 +135,13 @@
                 </nav>
                 <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
                 <div class="side-menu__content">
-                    <p>venshaq. is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of
-                        other agencies.</p>
-                    <p><a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a> <br> <a href="tel:888-999-0000">888
-                            999 0000</a></p>
+                    <p>Venshaq Holding Limited</p>
+                    <p><a href="mailto:hello@venshaq.com">hello@venshaq.com</a> <br> <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></p>
                     <div class="side-menu__social">
                         <a href="#"><i class="fab fa-facebook-square"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div><!-- /.side-menu__content -->
             </div><!-- /.side-menu__block-inner -->
@@ -200,11 +198,11 @@
                                     <div class="row clearfix">
                                         <div class="col-md-6 col-sm-12">
                                             <ul>
-                                                <li><a href="#">About</a></li>
-                                                <li><a href="#">Meet Our Team</a></li>
-                                                <li><a href="#">Our Portfolio</a></li>
+                                                <li><a href="#about">About</a></li>
+                                                <li><a href="#industries">Industries</a></li>
+                                                <li><a href="#">Our Companies</a></li>
                                                 <li><a href="#">Latest News</a></li>
-                                                <li><a href="#">Contact</a></li>
+                                                <li><a href="#contact">Contact</a></li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6 col-sm-12">
@@ -226,12 +224,11 @@
                                 <div class="widget-content">
                                     <h6>Contact</h6>
                                     <ul class="contact-info">
-                                        <li class="address"><span class="icon flaticon-pin-1"></span> 66 Broklyn Street,
-                                            New York <br>United States of America</li>
-                                        <li><span class="icon flaticon-call"></span><a href="tel:666888000">666 888
-                                                000</a></li>
+                                        <li class="address"><span class="icon flaticon-pin-1"></span> 66 Ngong Road Malik Heights,
+                                            Nairobi <br>Kenya</li>
+                                        <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
                                         <li><span class="icon flaticon-email-2"></span><a
-                                                href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a></li>
+                                                href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -267,7 +264,7 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner clearfix">
-                        <div class="copyright">&copy; copyright 2021 by venshaq.com</div>
+                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Hldings Limited All Rights Reserved</div>
                     </div>
                 </div>
             </div>

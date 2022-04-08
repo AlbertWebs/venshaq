@@ -84,10 +84,10 @@
 
 
 <!--Services Section-->
-<section class="services-section-three services-section-three__one-page" id="services">
+<section class="services-section-three services-section-three__one-page" id="industries">
     <div class="auto-container">
         <div class="sec-title centered">
-            <h2>What we’re offering<span class="dot">.</span></h2>
+            <h2>What we do<span class="dot">.</span></h2>
         </div>
         <div class="services">
             <div class="row clearfix">
@@ -96,7 +96,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
-                        <h5><a href="#">Modern <br>Designing</a></h5>
+                        <h5><a href="#">Commercial <br>Cleaning</a></h5>
                         <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -107,7 +107,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a href="#">MARKETING <br>STRATEGY</a></h5>
+                        <h5><a href="#">Fast Food <br>Delivery</a></h5>
                         <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -117,8 +117,8 @@
                 <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-instant-camera"></span></div>
-                        <h5><a href="#">Digital <br>Products</a></h5>
+                        <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
+                        <h5><a href="#">Enterntainment <br>Production</a></h5>
                         <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -128,8 +128,8 @@
                 <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-monitor"></span></div>
-                        <h5><a href="#">Website <br>Development</a></h5>
+                        <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
+                        <h5><a href="#">Farming &<br>Meat Production</a></h5>
                         <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -150,7 +150,7 @@
             <h2>Experience us live<span class="dot">.</span></h2>
         </div>
         <div class="main-image-box">
-            <div class="image-layer" style="background-image: url(images/resource/featured-image-3.jpg);"></div>
+            <div class="image-layer" style="background-image: url({{asset('venshaq/images/resource/featured-image-3.jpg')}});"></div>
             <div class="inner clearfix">
                 <div class="round-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="round-inner">
@@ -161,9 +161,9 @@
                             </a>
                         </div>
                         <div class="title">
-                            <h3>agency that gets <br>excited about</h3>
+                            <h3>Clients Satisfaction <br>Our Hapiness</h3>
                         </div>
-                        <div class="more-link"><a href="about.html">Read More</a></div>
+                        <div class="more-link scrollToLink"><a href="#about">Read More</a></div>
                     </div>
                 </div>
             </div>
@@ -188,15 +188,38 @@
                             alteration in some foor randomised words believable.</div>
                     </div>
                     <div class="progress-box">
-                        <div class="bar-title">Digital marketing</div>
+                        <div class="bar-title">Enterntainment & Production</div>
                         <div class="bar">
-                            <div class="bar-inner count-bar" data-percent="70%">
+                            <div class="bar-inner count-bar" data-percent="100%">
                                 <div class="count-box">
-                                    <span class="count-text" data-stop="70" data-speed="1500">0</span>%
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Commercial Cleaning & Fumigation</div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Farming </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
                 </div>
             </div>
             <!--Right Column-->
@@ -286,7 +309,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +326,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -320,7 +343,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -337,7 +360,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -355,7 +378,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +395,7 @@
                             <div class="cap-inner">
                                 <div class="cat"><span>Graphic</span></div>
                                 <div class="title">
-                                    <h5><a href="portfolio-single.html">Fimlor Experience</a></h5>
+                                    <h5><a href="#">Fimlor Experience</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -832,12 +855,12 @@
                             <li class="address">
                                 <span class="icon flaticon-pin-1"></span>
                                 <strong>Visit Us</strong>
-                                66 Broklyn Street, New York. USA
+                                66 Ngong Road , Nairobi. Kenya
                             </li>
                             <li>
                                 <span class="icon flaticon-email-2"></span>
                                 <strong>Email address</strong>
-                                <a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a>
+                                <a href="mailto:hello@venshaq.com">hello@venshaq.com</a>
                             </li>
                             <li>
                                 <span class="icon flaticon-call"></span>
@@ -905,7 +928,7 @@
 <div class="map-section map-section__one-page">
     <div class="map-container">
         <iframe class="map-iframe"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230899.1642407818!2d145.06327708904033!3d-37.792102974783376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65cd0db468a97%3A0xb61fde84306fc38a!2sMelbourne%20Zoo!5e0!3m2!1sen!2s!4v1592307685926!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.168613544265!2d36.7827816!3d-1.2995093!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdfee283a57b3021f!2sVenshaq%20Holdings%20Limited!5e0!3m2!1sen!2ske!4v1649409868981!5m2!1sen!2ske"
             style="border:0;" aria-hidden="false" tabindex="0"></iframe>
     </div>
 </div>
@@ -914,7 +937,7 @@
 <section class="contact-section contact-section__one-page">
     <div class="auto-container">
         <div class="sec-title centered">
-            <h2>Offices near you<span class="dot">.</span></h2>
+            <h2>Offices Contacts<span class="dot">.</span></h2>
         </div>
 
         <div class="upper-info">
@@ -922,11 +945,11 @@
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>Austin</h5>
+                        <h5>ShemaQ Productions</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>22 Texas West Hills</li>
-                                <li><a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a></li>
+                                <li>Malik Heights Suite 3</li>
+                                <li><a href="mailto:shemaq@venshaq.com">shemaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">666 888 000</a></li>
                             </ul>
                         </div>
@@ -936,11 +959,11 @@
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>Boston</h5>
+                        <h5>Shaq House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>5 Federal Street Boston</li>
-                                <li><a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a></li>
+                                <li>Malik Heights Suite 4</li>
+                                <li><a href="mailto:shaq@venshaq.com">shaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">666 888 000</a></li>
                             </ul>
                         </div>
@@ -950,11 +973,11 @@
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>New york</h5>
+                        <h5>Treven Cleaners</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>8th Broklyn New York</li>
-                                <li><a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a></li>
+                                <li>Malik Heights Suite 5</li>
+                                <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
                                 <li><a href="tel:666888000">666 888 000</a></li>
                             </ul>
                         </div>
@@ -964,11 +987,11 @@
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>baltimore</h5>
+                        <h5>Shaq Farm House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>3 Lombabr 50 Baltimore</li>
-                                <li><a href="mailto:needhelp@venshaq.com">needhelp@venshaq.com</a></li>
+                                <li>Malik Heights Suite 6</li>
+                                <li><a href="mailto:farm@venshaq.com">farm@venshaq.com</a></li>
                                 <li><a href="tel:666888000">666 888 000</a></li>
                             </ul>
                         </div>

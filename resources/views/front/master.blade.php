@@ -29,8 +29,7 @@
     <!-- Color css -->
     <link rel="stylesheet" id="jssDefault" href="{{asset('venshaq/css/colors/color-default.css')}}">
 
-    <link rel="shortcut icon" href="{{asset('venshaq/images/favicon.png')}}" id="fav-shortcut" type="image/x-icon">
-    <link rel="icon" href="{{asset('venshaq/images/favicon.png')}}" id="fav-icon')}}" type="image/x-icon">
+    @include('favicon')
 
     <!-- Responsive Settings -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

@@ -58,9 +58,9 @@
                     <!--Logo-->
                     <div class="logo-box">
                         <div class="logo">
-                            <a href="index.html" title="venshaq. - DIgital Agency HTML Template">
+                            <a href="{{url('/')}}" title="Venshaq Holdings Limited">
                                     <img
-                                    src="{{asset('venshaq/images/logo-dark.png')}}" id="dLogo" class="main-logo"
+                                    src="{{asset('venshaq/images/Venshaq-Site-Logo.png')}}" id="dLogo" class="main-logo"
                                     alt="venshaq holdings Limited"
                                     title="venshaq holdings Limited">
                             </a>

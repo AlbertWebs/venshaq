@@ -59,7 +59,7 @@
                         <div class="logo">
                             <a href="{{url('/')}}" title="Venshaq Holdings Limited">
                                     <img
-                                    src="{{asset('venshaq/images/Venshaq-Site-Logo.png')}}" id="dLogo" class="main-logo"
+                                    src="{{asset('venshaq/images/Venshaq.png')}}" id="dLogo" class="main-logo"
                                     alt="venshaq holdings Limited"
                                     title="venshaq holdings Limited">
                             </a>
@@ -78,7 +78,7 @@
                                     <li class="scrollToLink"><a href="#about">About</a></li>
                                     <li class="scrollToLink"><a href="#industries">Industries</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
-                                    <li class="scrollToLink"><a href="#team">Companies</a></li>
+                                    <li class="scrollToLink"><a href="#team">Team</a></li>
 
                                     <li class="scrollToLink"><a href="#blog">Blog</a></li>
                                     <li class="scrollToLink"><a href="#contact">Contact</a></li>

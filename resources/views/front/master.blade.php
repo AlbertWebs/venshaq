@@ -5,6 +5,22 @@
 <head>
     <meta charset="utf-8">
     <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaq House | Shemaq Productions</title>
+    {{--  --}}
+    <meta name="description" content="venshaq holding is a private holding company for shemaq productiona, shaq house and treven cleaners, the short term and long term businesses of the group.">
+    <link rel="canonical" href="https://venshaq.com"/>
+    <meta name="author" content="Designekta Studios">
+    <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaq house and treven cleaners, the short term and long term businesses of the group.">
+    <meta property="og:image" content="https://venshaq.com/venshaq/images/Venshaq.png" />
+    <meta property="fb:app_id" content="431980657174772" />
+    <meta property="og:title" content="Venshaq Holdings Limited - " />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://venshaq.com" />
+
+    <meta name="twitter:title" content="Venshaq Holdings Limited" />
+    <meta name="twitter:site" content="@venshaqholdings" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@venshaqholdings" />
+    {{--  --}}
     <!-- Stylesheets -->
 
     <link

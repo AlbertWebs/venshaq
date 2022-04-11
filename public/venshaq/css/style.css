@@ -1073,7 +1073,8 @@ img {
 }
 
 .header-style-four .other-links .link-box .link .icon {
-  background-image: url(../images/icons/chat-icon-dark.png);
+  background-image: url(../images/icons/CHAT-ICON-03.png);
+  background-size: 43px 40px;
 }
 
 .header-style-four .other-links .link-box .sub-text {

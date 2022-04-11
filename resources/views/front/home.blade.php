@@ -178,7 +178,7 @@
             <div class="left-col col-lg-6 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        <h2>We do more then ever <br>platforms<span class="dot">.</span></h2>
+                        <h2>We do more than  <br>we can<span class="dot">.</span></h2>
                     </div>
                     <div class="featured-block clearfix">
                         <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-4.jpg')}}" alt=""></div>
@@ -227,8 +227,7 @@
                         <ul class="accordion-box clearfix">
                             <!--Block-->
                             <li class="accordion block active-block">
-                                <div class="acc-btn active"><span class="count">1.</span> We help to create
-                                    visual strategies</div>
+                                <div class="acc-btn active"><span class="count">1.</span> Commercial Cleaning and Fumigation</div>
                                 <div class="acc-content current">
                                     <div class="content">
                                         <div class="text">There are many variations of passages the majority
@@ -240,7 +239,7 @@
 
                             <!--Block-->
                             <li class="accordion block">
-                                <div class="acc-btn"><span class="count">2.</span> Motion Graphics & Animations
+                                <div class="acc-btn"><span class="count">2.</span>Enterntaiment & Media Production
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
@@ -253,8 +252,19 @@
 
                             <!--Block-->
                             <li class="accordion block">
-                                <div class="acc-btn"><span class="count">3.</span> We help to achieve mutual
-                                    goals</div>
+                                <div class="acc-btn"><span class="count">3.</span> Fast Food Delicacies</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">There are many variations of passages the majority
+                                            have suffered alteration in some fo injected humour, or randomised
+                                            words believable.</div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">4.</span> Agribusiness</div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">There are many variations of passages the majority

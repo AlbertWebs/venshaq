@@ -89,7 +89,8 @@
   --thm-b-font: "Rubik", sans-serif;
   --thm-base: #ffaa17;
   --thm-base-rgb: 255, 170, 23;
-  --thm-black: #222429;
+  /* --thm-black: #222429; */
+  --thm-black: #0C2435;
   --thm-text: #686a6f;
 }
 
@@ -1058,7 +1059,7 @@ img {
 }
 
 .header-style-four .main-menu .navigation > li > a {
-  color: #000000;
+  color: #0C2435;
 }
 
 .header-style-four .other-links .link-box .number,
@@ -6670,7 +6671,7 @@ img.lazy-image.loaded {
 }
 
 .main-footer .logo-widget .logo img {
-  height: 34px;
+  height: 54px;
 }
 
 .main-footer .logo-widget .text {
@@ -14613,7 +14614,7 @@ img.lazy-image.loaded {
 
 .login-wrapper .signup-link {
   text-transform: uppercase;
-  color: #000000;
+  color: #0C2435;
   font-weight: 400;
   letter-spacing: 0.1em;
   font-size: 20px;
@@ -19581,7 +19582,7 @@ img.lazy-image.loaded {
 .footer-nine__social a {
   width: 44px;
   height: 44px;
-  background-color: #000000;
+  background-color: #0C2435;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

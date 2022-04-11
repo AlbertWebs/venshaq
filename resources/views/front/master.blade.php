@@ -4,9 +4,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Venshaq Holdings Limited | Home</title>
+    <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaq House | Shemaq Productions</title>
     <!-- Stylesheets -->
-    <link rel="preconnect" href="fonts.gstatic.com/index.html">
+
     <link
         href="fonts.googleapis.com/css2bd58.css?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;family=Teko:wght@300;400;500;600;700&amp;display=swap"
         rel="stylesheet">
@@ -175,7 +175,7 @@
                             <div class="footer-widget logo-widget">
                                 <div class="widget-content">
                                     <div class="logo">
-                                        <a href="index.html"><img id="fLogo" src="{{asset('venshaq/images/footer-logo.png')}}" alt="" /></a>
+                                        <a href="{{url('/')}}"><img id="fLogo" src="{{asset('venshaq/images/Venshaq.jpg')}}" alt="" /></a>
                                     </div>
                                     <div class="text">Welcome to our web design agency. Lorem ipsum simply free text
                                         dolor sited amet cons cing elit.</div>

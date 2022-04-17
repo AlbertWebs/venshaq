@@ -6,7 +6,7 @@
 >
   <head>
     <meta charset="utf-8" />
-    <title>Venshaq Holdings Limited</title>
+    <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaq House | Shemaq Productions</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Webflow" name="generator" />
     <link href="{{asset('landing/css/normalize.css')}}" rel="stylesheet" type="text/css" />

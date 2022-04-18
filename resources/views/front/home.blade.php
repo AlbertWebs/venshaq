@@ -88,47 +88,57 @@
             <h2>What we do<span class="dot">.</span></h2>
         </div>
         <div class="services">
-            <div class="row clearfix">
+            <div class="row clearfix" style="margin:0 auto !important">
                 <!--Service Block-->
-                <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
-                        <h5><a href="#">Commercial <br>Cleaning</a></h5>
-                        <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
+                        <h5><a href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
+                        <div class="text">www.trevencleanersltd.co.ke</div>
+                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="fa fa-wrench"></span></div>
+                        <h5><a href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
+                        <div class="text">www.pros-borders.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a href="#">Fast Food <br>Delivery</a></h5>
-                        <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
+                        <h5><a href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
+                        <div class="text">www.shaqhouse.co.ke</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                        <h5><a href="#">Enterntainment <br>Production</a></h5>
-                        <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
+                        <h5><a href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
+                        <div class="text">www.shemaq.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a href="#">Farming &<br>Meat Production</a></h5>
-                        <div class="text">Lorem ipsum is are many variations of pass of majority.</div>
+                        <h5><a href="https://www.sheqfarm.com">Farming &<br>Meat Production</a></h5>
+                        <div class="text">www.shaqfarm.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -265,6 +275,18 @@
                             <!--Block-->
                             <li class="accordion block">
                                 <div class="acc-btn"><span class="count">4.</span> Agribusiness</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">There are many variations of passages the majority
+                                            have suffered alteration in some fo injected humour, or randomised
+                                            words believable.</div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">5.</span> Comstruction & Supplies</div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">There are many variations of passages the majority

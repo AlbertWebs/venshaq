@@ -7428,6 +7428,7 @@ img.lazy-image.loaded {
   color: var(--thm-text);
   padding: 30px 0px 0px;
   z-index: 1;
+  /* font-size: 15px; */
 }
 
 .service-block-two .inner-box:hover .text {

@@ -69,7 +69,7 @@
                         <div class="since"><span class="txt">Since <br>2018</span></div>
                     </div>
                     <div class="link-box scrollToLink">
-                        <a class="theme-btn btn-style-one" href="#team">
+                        <a class="theme-btn btn-style-one" href="#industries">
                             <i class="btn-curve"></i>
                             <span class="btn-title">Discover Companies</span>
                         </a>
@@ -94,7 +94,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
-                        <h5><a href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
+                        <h5><a target="new" href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
                         <div class="text">www.trevencleanersltd.co.ke</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -104,7 +104,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
-                        <h5><a href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
+                        <h5><a target="new" href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
                         <div class="text">www.pros-borders.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -115,7 +115,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
+                        <h5><a target="new" href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
                         <div class="text">www.shaqhouse.co.ke</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -126,7 +126,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                        <h5><a href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
+                        <h5><a target="new" href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
                         <div class="text">www.shemaq.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -137,7 +137,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a href="https://www.sheqfarm.com">Farming &<br>Meat Production</a></h5>
+                        <h5><a target="new" href="https://www.sheqfarm.com">Farming &<br>Meat Production</a></h5>
                         <div class="text">www.shaqfarm.com</div>
                         <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
                     </div>

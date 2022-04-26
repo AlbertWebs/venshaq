@@ -24003,9 +24003,9 @@ img.lazy-image.loaded {
 .contact-sticky:hover{
     color:#A59164;
 }
-.service-block-two .text {
+/* .service-block-two .text {
     min-height:230px;
-}
+} */
 
 @media (max-width: 568px) {
     .contact-sticky{display: none;}

@@ -91,60 +91,57 @@
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
                 <!--Service Block-->
-                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
                         <h5><a target="new" href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
-                        <div class="text">Treven Cleaners offers the best cleaning services in Kenya and its environs, We offer Sofa Set Cleaning, Carpet Cleaning, Office Cleaning, Pre- and Post-construction cleaning among others.</div>
-                        <div class="link-box"><a href="www.trevencleanersltd.co.ke"><span class="fa fa-angle-right"></span></a></div>
+                        <div class="text">www.trevencleanersltd.co.ke</div>
+                        <div class="link-box"><a href="https://www.trevencleanersltd.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
-                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
                         <h5><a target="new" href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
                         <div class="text">
-                            Prosborders is a construction and supplies company that operates within Kenya and east Africa,
-
-Prosborders prides herself with supplies of general construction material and machinery. Prosborders also provides engineering and design personnel in contract basis.
-
+                            www.pros-borders.com
                         </div>
                         <div class="link-box"><a href="https://www.pros-borders.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
                         <h5><a target="new" href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
-                        <div class="text">Giving you unique food experiences is our motivation, Shaqs House chicken, Beef , Pork , Mutton and Fish recipes will leave you yarning for more. Shaqs house takes orders from their website and delivers to your home or offices just in time.</div>
+                        <div class="text">www.shaqshouse.co.ke</div>
                         <div class="link-box"><a href="https://www.shaqshouse.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
                     <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
                         <h5><a target="new" href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
-                        <div class="text">Shemaq Productions offers a robust roster of highly experienced directors and producers with distinct yet complementary strengths and passions, Shemaq Productions also create compelling content for every platform from traditional TVCs and documentaries to digital content, music videos and stills campaigns.</div>
+                        <div class="text">www.shemaq.com</div>
                         <div class="link-box"><a href="https://www.shemaq.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
                         <h5><a target="new" href="https://www.sheqsfarm.com">Farming &<br>Meat Production</a></h5>
-                        <div class="text">For Over a decade Shaqs farm has produces healthy, high end food products that go into some of the world’s finest recipes. Shaqs farm is the leading producer of Goat meat, Sheep Meat, Kienyeji & Broiler Chicken.</div>
+                        <div class="text">www.shaqsfarm.com</div>
                         <div class="link-box"><a href="https://www.shaqsfarm.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -292,7 +289,7 @@ Prosborders prides herself with supplies of general construction material and ma
 
                             <!--Block-->
                             <li class="accordion block">
-                                <div class="acc-btn"><span class="count">4.</span> Agribusiness</div>
+                                <div class="acc-btn"><span class="count">4.</span> Agri-business</div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">

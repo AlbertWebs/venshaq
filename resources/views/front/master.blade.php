@@ -193,8 +193,9 @@
                                     <div class="logo">
                                         <a href="{{url('/')}}"><img id="fLogo" src="{{asset('venshaq/images/Venshaq.jpg')}}" alt="" /></a>
                                     </div>
-                                    <div class="text">Welcome to our web design agency. Lorem ipsum simply free text
-                                        dolor sited amet cons cing elit.</div>
+                                    <div class="text">
+                                        Venshaq Holding is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies ,Farm supplies and Enterntaiment.
+                                    </div>
                                     <ul class="social-links clearfix">
                                         <li><a href="https://www.facebook.com/venshaqholdings"><span class="fab fa-facebook-square"></span></a></li>
                                         <li><a href="https://twitter.com/venshaq"><span class="fab fa-twitter"></span></a></li>

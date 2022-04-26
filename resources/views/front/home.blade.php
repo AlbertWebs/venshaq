@@ -444,7 +444,7 @@ Prosborders prides herself with supplies of general construction material and ma
     </div>
 </section>
 
-<!-- Team Section -->
+{{-- <!-- Team Section -->
 <section class="team-section no-padd-top" id="team" style="position: relative; padding: 120px 0px; background: #ffffff url('{{asset('venshaq/images/background/pattern-2.png')}}') left top repeat; overflow: hidden;">
     <div class="auto-container">
         <div class="sec-title centered">
@@ -517,7 +517,7 @@ Prosborders prides herself with supplies of general construction material and ma
             </div>
         </div>
     </div><!-- /.auto-container -->
-</section>
+</section> --}}
 
 <!-- Parallax Section -->
 <section class="parallax-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">

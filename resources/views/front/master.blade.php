@@ -153,10 +153,10 @@
                     <p>Venshaq Holding Limited</p>
                     <p><a href="mailto:hello@venshaq.com">hello@venshaq.com</a> <br> <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></p>
                     <div class="side-menu__social">
-                        <a href="#"><i class="fab fa-facebook-square"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.facebook.com/venshaqholdings"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://twitter.com/venshaq"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/venshaqholdings/"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/venshaq-holdings-limited"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div><!-- /.side-menu__content -->
             </div><!-- /.side-menu__block-inner -->
@@ -196,10 +196,10 @@
                                     <div class="text">Welcome to our web design agency. Lorem ipsum simply free text
                                         dolor sited amet cons cing elit.</div>
                                     <ul class="social-links clearfix">
-                                        <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                                        <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                        <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                                        <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
+                                        <li><a href="https://www.facebook.com/venshaqholdings"><span class="fab fa-facebook-square"></span></a></li>
+                                        <li><a href="https://twitter.com/venshaq"><span class="fab fa-twitter"></span></a></li>
+                                        <li><a href="https://www.instagram.com/venshaqholdings/"><span class="fab fa-instagram"></span></a></li>
+                                        <li><a href="https://www.linkedin.com/company/venshaq-holdings-limited"><span class="fab fa-linkedin-in"></span></a></li>
                                     </ul>
                                 </div>
                             </div>

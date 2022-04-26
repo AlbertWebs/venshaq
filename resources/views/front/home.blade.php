@@ -55,16 +55,17 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h2>We’re a proffessional multi-industry<br>Agency<span class="dot">.</span></h2>
-                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Productiona, Shaq House and Treven Cleaners, the short term and long term businesses of the group. </div>
+                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Production, Shaqs House , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
-                        <p>Venshaq Holding is a market-leading range of Commercial Cleaning, Food and Beverage and Enterntaiment. </p>
+                        <p>Venshaq Holding is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies ,Farm supplies and Enterntaiment. </p>
                     </div>
                     <div class="text clearfix">
                         <ul>
                             <li>Commercial Cleaning</li>
                             <li>Film Productions and Enterntainment.</li>
                             <li>Farming,Fast Food & Beverage</li>
+                            <li>Construction and Supplies</li>
                         </ul>
                         <div class="since"><span class="txt">Since <br>2018</span></div>
                     </div>
@@ -90,56 +91,61 @@
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
                 <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
                         <h5><a target="new" href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
-                        <div class="text">www.trevencleanersltd.co.ke</div>
-                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                        <div class="text">Treven Cleaners offers the best cleaning services in Kenya and its environs, We offer Sofa Set Cleaning, Carpet Cleaning, Office Cleaning, Pre- and Post-construction cleaning among others.</div>
+                        <div class="link-box"><a href="www.trevencleanersltd.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
                         <h5><a target="new" href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
-                        <div class="text">www.pros-borders.com</div>
-                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                        <div class="text">
+                            Prosborders is a construction and supplies company that operates within Kenya and east Africa,
+
+Prosborders prides herself with supplies of general construction material and machinery. Prosborders also provides engineering and design personnel in contract basis.
+
+                        </div>
+                        <div class="link-box"><a href="https://www.pros-borders.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
                         <h5><a target="new" href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
-                        <div class="text">www.shaqhouse.co.ke</div>
-                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                        <div class="text">Giving you unique food experiences is our motivation, Shaqs House chicken, Beef , Pork , Mutton and Fish recipes will leave you yarning for more. Shaqs house takes orders from their website and delivers to your home or offices just in time.</div>
+                        <div class="link-box"><a href="https://www.shaqshouse.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
                         <h5><a target="new" href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
-                        <div class="text">www.shemaq.com</div>
-                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                        <div class="text">Shemaq Productions offers a robust roster of highly experienced directors and producers with distinct yet complementary strengths and passions, Shemaq Productions also create compelling content for every platform from traditional TVCs and documentaries to digital content, music videos and stills campaigns.</div>
+                        <div class="link-box"><a href="https://www.shemaq.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <div class="service-block-two col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a target="new" href="https://www.sheqfarm.com">Farming &<br>Meat Production</a></h5>
-                        <div class="text">www.shaqfarm.com</div>
-                        <div class="link-box"><a href="#"><span class="fa fa-angle-right"></span></a></div>
+                        <h5><a target="new" href="https://www.sheqsfarm.com">Farming &<br>Meat Production</a></h5>
+                        <div class="text">For Over a decade Shaqs farm has produces healthy, high end food products that go into some of the world’s finest recipes. Shaqs farm is the leading producer of Goat meat, Sheep Meat, Kienyeji & Broiler Chicken.</div>
+                        <div class="link-box"><a href="https://www.shaqsfarm.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
@@ -181,7 +187,7 @@
 
 
 <!--We DO Section-->
-<section class="we-do-section">
+<section class="we-do-section" id="portfolio">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->
@@ -190,11 +196,11 @@
                     <div class="sec-title">
                         <h2>We do more than  <br>we can<span class="dot">.</span></h2>
                     </div>
-                    <div class="featured-block clearfix">
+                    {{-- <div class="featured-block clearfix">
                         <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-4.jpg')}}" alt=""></div>
                         <div class="text">There are many variatns of passages the majority have suffered
                             alteration in some foor randomised words believable.</div>
-                    </div>
+                    </div> --}}
                     <div class="progress-box">
                         <div class="bar-title">Enterntainment & Production</div>
                         <div class="bar">
@@ -228,6 +234,17 @@
                         </div>
                     </div>
                     <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Fast Food Delicacies </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
                 </div>
             </div>
             <!--Right Column-->
@@ -236,13 +253,16 @@
                     <div class="faq-box">
                         <ul class="accordion-box clearfix">
                             <!--Block-->
-                            <li class="accordion block active-block">
-                                <div class="acc-btn active"><span class="count">1.</span> Commercial Cleaning and Fumigation</div>
-                                <div class="acc-content current">
+                            {{-- <li class="accordion block active-block"> --}}
+                            <li class="accordion block">
+                                {{-- <div class="acc-btn active"><span class="count">1.</span> Commercial Cleaning and Fumigation</div> --}}
+                                <div class="acc-btn"><span class="count">1.</span> Commercial Cleaning and Fumigation</div>
+                                <div class="acc-content">
+                                {{-- <div class="acc-content current"> --}}
                                     <div class="content">
-                                        <div class="text">There are many variations of passages the majority
-                                            have suffered alteration in some fo injected humour, or randomised
-                                            words believable.</div>
+                                        <div class="text">
+                                            Treven Cleaners offers the best cleaning services in Kenya and its environs, We offer Sofa Set Cleaning, Carpet Cleaning, Office Cleaning, Pre- and Post-construction cleaning among others.
+                                        </div>
                                     </div>
                                 </div>
                             </li>
@@ -253,9 +273,9 @@
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">There are many variations of passages the majority
-                                            have suffered alteration in some fo injected humour, or randomised
-                                            words believable.</div>
+                                        <div class="text">
+                                            Shemaq Productions offers a robust roster of highly experienced directors and producers with distinct yet complementary strengths and passions, Shemaq Productions also create compelling content for every platform from traditional TVCs and documentaries to digital content, music videos and stills campaigns.
+                                        </div>
                                     </div>
                                 </div>
                             </li>
@@ -265,9 +285,7 @@
                                 <div class="acc-btn"><span class="count">3.</span> Fast Food Delicacies</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">There are many variations of passages the majority
-                                            have suffered alteration in some fo injected humour, or randomised
-                                            words believable.</div>
+                                        <div class="text">Giving you unique food experiences is our motivation, Shaqs House chicken, Beef , Pork , Mutton and Fish recipes will leave you yarning for more. Shaqs house takes orders from their website and delivers to your home or offices just in time.</div>
                                     </div>
                                 </div>
                             </li>
@@ -277,21 +295,23 @@
                                 <div class="acc-btn"><span class="count">4.</span> Agribusiness</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">There are many variations of passages the majority
-                                            have suffered alteration in some fo injected humour, or randomised
-                                            words believable.</div>
+                                        <div class="text">
+                                            For Over a decade Shaqs farm has produces healthy, high end food products that go into some of the world’s finest recipes. Shaqs farm is the leading producer of Goat meat, Sheep Meat, Kienyeji & Broiler Chicken.
+                                        </div>
                                     </div>
                                 </div>
                             </li>
 
                             <!--Block-->
                             <li class="accordion block">
-                                <div class="acc-btn"><span class="count">5.</span> Comstruction & Supplies</div>
+                                <div class="acc-btn"><span class="count">5.</span> Construction & Supplies</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">There are many variations of passages the majority
-                                            have suffered alteration in some fo injected humour, or randomised
-                                            words believable.</div>
+                                        <div class="text">
+                                            Prosborders is a construction and supplies company that operates within Kenya and east Africa,
+
+Prosborders prides herself with supplies of general construction material and machinery. Prosborders also provides engineering and design personnel in contract basis.
+                                        </div>
                                     </div>
                                 </div>
                             </li>
@@ -347,7 +367,7 @@
                         <div class="inner">
                             <div class="content">
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="3000" data-stop="4">0</span>
+                                    <span class="count-text" data-speed="3000" data-stop="5">0</span>
                                 </div>
                                 <div class="counter-title">Companies</div>
                             </div>
@@ -361,7 +381,7 @@
                                 <div class="count-outer count-box">
                                     <span class="count-text" data-speed="4000" data-stop="248">0</span>
                                 </div>
-                                <div class="counter-title">happy clients</div>
+                                <div class="counter-title">Happy Clients</div>
                             </div>
                         </div>
                     </div>
@@ -517,7 +537,7 @@
 <!-- End Funfacts Section -->
 
 <!--Testimonials Section-->
-<section class="testimonials-section" id="testimonials">
+{{-- <section class="testimonials-section" id="testimonials">
     <div class="auto-container">
         <div class="sec-title">
             <h2>Customer feedbacks<span class="dot">.</span></h2>
@@ -611,7 +631,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 
 
@@ -658,7 +678,7 @@
 </section>
 
 <!-- News Section -->
-<section class="news-section" id="blog">
+{{-- <section class="news-section" id="blog">
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Latest news & articles<span class="dot">.</span></h2>
@@ -733,7 +753,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 <!--Get Quote Section-->
 <section class="get-quote-two get-quote-two__one-page" id="contact">

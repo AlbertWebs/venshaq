@@ -4,12 +4,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaq House | Shemaq Productions</title>
+    <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaqs House | Shemaq Productions</title>
     {{--  --}}
-    <meta name="description" content="venshaq holding is a private holding company for shemaq productiona, shaq house and treven cleaners, the short term and long term businesses of the group.">
+    <meta name="description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <link rel="canonical" href="https://venshaq.com"/>
     <meta name="author" content="Designekta Studios">
-    <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaq house and treven cleaners, the short term and long term businesses of the group.">
+    <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <meta property="og:image" content="https://venshaq.com/venshaq/images/Venshaq.png" />
     <meta property="fb:app_id" content="431980657174772" />
     <meta property="og:title" content="Venshaq Holdings Limited - " />
@@ -240,7 +240,7 @@
                                 <div class="widget-content">
                                     <h6>Contact</h6>
                                     <ul class="contact-info">
-                                        <li class="address"><span class="icon flaticon-pin-1"></span> 66 Ngong Road Malik Heights,
+                                        <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4rth Floor Rm 406
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
                                         <li><span class="icon flaticon-email-2"></span><a

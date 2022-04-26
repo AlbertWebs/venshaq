@@ -20,13 +20,13 @@
                                     <i class="btn-curve"></i>
                                     <span class="btn-title">Discover More</span>
                                 </a>
-                                <div class="vid-link">
+                                {{-- <div class="vid-link">
                                     <a href="https://www.youtube.com/watch?v=0Az_rMDh-aI"
                                         class="lightbox-image">
                                         <div class="icon"><span class="flaticon-play-button-1"></span><i
                                                 class="ripple"></i></div>
                                     </a>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -757,7 +757,7 @@ Prosborders prides herself with supplies of general construction material and ma
                             <li class="address">
                                 <span class="icon flaticon-pin-1"></span>
                                 <strong>Visit Us</strong>
-                                66 Ngong Road , Nairobi. Kenya
+                                Ngong Rd, Malik Heights, 4rth Floor Rm 406
                             </li>
                             <li>
                                 <span class="icon flaticon-email-2"></span>
@@ -850,9 +850,9 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>ShemaQ Productions</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights Suite 3</li>
+                                <li>Malik Heights, 4rth Floor Rm 406</li>
                                 <li><a href="mailto:shemaq@venshaq.com">shemaq@venshaq.com</a></li>
-                                <li><a href="tel:666888000">666 888 000</a></li>
+                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
                         </div>
                     </div>
@@ -861,12 +861,12 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>Shaq House</h5>
+                        <h5>Shaqs House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights Suite 4</li>
+                                <li>Malik Heights, 4rth Floor Rm 406</li>
                                 <li><a href="mailto:shaq@venshaq.com">shaq@venshaq.com</a></li>
-                                <li><a href="tel:666888000">666 888 000</a></li>
+                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
                         </div>
                     </div>
@@ -878,9 +878,9 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>Treven Cleaners</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights Suite 5</li>
+                                <li>Malik Heights, 4rth Floor Rm 406</li>
                                 <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
-                                <li><a href="tel:666888000">666 888 000</a></li>
+                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
                         </div>
                     </div>
@@ -889,12 +889,12 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>Shaq Farm House</h5>
+                        <h5>Shaqs Farm House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights Suite 6</li>
+                                <li>Malik Heights, 4rth Floor Rm 406</li>
                                 <li><a href="mailto:farm@venshaq.com">farm@venshaq.com</a></li>
-                                <li><a href="tel:666888000">666 888 000</a></li>
+                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
                         </div>
                     </div>

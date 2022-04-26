@@ -330,7 +330,7 @@
             "https://www.facebook.com/venshaqholdings",
             "https://www.instagram.com/venshaqholdings/",
             "https://www.linkedin.com/company/venshaq-holdings-limited",
-            "https://twitter.com/venshaq",
+            "https://twitter.com/venshaq"
           ],
           "priceRange": "$$$$",
           "image": "https://venshaq.com/venshaq/images/Venshaq.png",

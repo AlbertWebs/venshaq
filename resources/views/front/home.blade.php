@@ -640,34 +640,22 @@ Prosborders prides herself with supplies of general construction material and ma
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/1.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="http://trevencleanersltd.co.ke/"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/2.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/3.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/4.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/5.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/1.png')}}" alt=""></a></figure>
-                </div>
-                <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/2.png')}}" alt=""></a></figure>
-                </div>
-                <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/3.png')}}" alt=""></a></figure>
-                </div>
-                <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/4.png')}}" alt=""></a></figure>
-                </div>
-                <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/5.png')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
             </div>
         </div>

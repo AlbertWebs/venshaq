@@ -47,7 +47,7 @@
                     <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/featured-image.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms"><img
-                            src="{{asset('venshaq/images/resource/featured-images.jpg')}}" alt=""></div>
+                            src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
                 </div>
             </div>
             <!--Text Column-->
@@ -327,7 +327,7 @@ Prosborders prides herself with supplies of general construction material and ma
 <!-- Funfacts Section -->
 <section class="facts-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
     <!-- <div class="image-layer" style="background-image: url(images/background/image-1.jpg);"></div> -->
-    <img src="{{asset('venshaq/images/background/image-1.jpg')}}" alt="" class="jarallax-img">
+    <img src="{{asset('venshaq/images/resource/pexels-pixabay-416320.jpg')}}" alt="" class="jarallax-img">
     <div class="auto-container">
         <div class="inner-container">
 

@@ -13,10 +13,12 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('welcome');
 });
-Route::get('/home', [HomeController::class, 'index'])->name('home-page');
+// Route::get('/home', [HomeController::class, 'index'])->name('home-page');
+
+Route::get('/', [HomeController::class, 'index'])->name('home-page');
 
 // House Of Shaq
 // Shemaq Productions

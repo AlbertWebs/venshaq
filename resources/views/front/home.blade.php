@@ -639,23 +639,18 @@ Prosborders prides herself with supplies of general construction material and ma
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="http://trevencleanersltd.co.ke/"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
-                </div>
-                <div class="slide-item">
                     <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
                 </div>
-                <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
-                </div>
+
             </div>
         </div>
     </div>

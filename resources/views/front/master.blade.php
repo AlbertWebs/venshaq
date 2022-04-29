@@ -94,6 +94,7 @@
                                     <li class="scrollToLink"><a href="#about">About</a></li>
                                     <li class="scrollToLink"><a href="#industries">Industries</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
+                                    <li class="scrollToLink"><a href="#brands">Brands</a></li>
                                     {{-- <li class="scrollToLink"><a href="#team">Team</a></li> --}}
 
                                     {{-- <li class="scrollToLink"><a href="#blog">Blog</a></li> --}}

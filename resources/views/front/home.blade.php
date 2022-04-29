@@ -632,7 +632,7 @@ Prosborders prides herself with supplies of general construction material and ma
 
 
 <!--Sponsors Section-->
-<section class="sponsors-section sponsors-section__one-page">
+<section class="sponsors-section sponsors-section__one-page" id="brands">
     <div class="sponsors-outer">
         <!--Sponsors-->
         <div class="auto-container">

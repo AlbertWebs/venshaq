@@ -1048,6 +1048,7 @@ img {
 /* header style four */
 .header-style-four .header-upper {
   background-color: #fff;
+  max-height: 110px;
 }
 
 .header-style-four .other-links .search-btn {

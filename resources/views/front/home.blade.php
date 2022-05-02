@@ -54,8 +54,8 @@
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        <h2>We’re a proffessional multi-industry<br>Agency<span class="dot">.</span></h2>
-                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Production, Shaqs House , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
+                        <h2>We’re a proffessional multi-industry<br>&nbsp; Agency<span class="dot">.</span></h2>
+                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Production, Shaqs House, Shaqs Farm , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
                         <p>Venshaq Holding is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies ,Farm supplies and Enterntaiment. </p>
@@ -751,7 +751,7 @@ Prosborders prides herself with supplies of general construction material and ma
                             <li class="address">
                                 <span class="icon flaticon-pin-1"></span>
                                 <strong>Visit Us</strong>
-                                Ngong Rd, Malik Heights, 4rth Floor Rm 406
+                                Ngong Rd, Malik Heights, 4th Floor Rm 406
                             </li>
                             <li>
                                 <span class="icon flaticon-email-2"></span>
@@ -844,7 +844,7 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>ShemaQ Productions</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4rth Floor Rm 406</li>
+                                <li>Malik Heights, 4th Floor Rm 406</li>
                                 <li><a href="mailto:shemaq@venshaq.com">shemaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -858,7 +858,7 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>Shaqs House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4rth Floor Rm 406</li>
+                                <li>Malik Heights, 4th Floor Rm 406</li>
                                 <li><a href="mailto:shaq@venshaq.com">shaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -872,7 +872,7 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>Treven Cleaners</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4rth Floor Rm 406</li>
+                                <li>Malik Heights, 4th Floor Rm 406</li>
                                 <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -886,7 +886,7 @@ Prosborders prides herself with supplies of general construction material and ma
                         <h5>Shaqs Farm House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4rth Floor Rm 406</li>
+                                <li>Malik Heights, 4th Floor Rm 406</li>
                                 <li><a href="mailto:farm@venshaq.com">farm@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>

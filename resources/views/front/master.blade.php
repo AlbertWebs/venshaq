@@ -233,7 +233,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
 
                         <!--Column-->
                         <div class="column col-xl-3 col-lg-6 col-md-6 col-sm-12">
@@ -241,7 +241,7 @@
                                 <div class="widget-content">
                                     <h6>Contact</h6>
                                     <ul class="contact-info">
-                                        <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4rth Floor Rm 406
+                                        <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4th Floor Rm 406
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
                                         <li><span class="icon flaticon-email-2"></span><a
@@ -320,35 +320,7 @@
     <script src="{{asset('venshaq/js/color-switcher.js')}}"></script>
 
     {{-- Schema --}}
-    <script type='application/ld+json'>
-        {
-          "@context": "http://www.schema.org",
-          "@type": "ProfessionalService",
-          "name": "Venshaq Holdings Limited",
-          "url": "http://venshaq.com",
-          "logo": "https://venshaq.com/venshaq/images/Venshaq.png",
-          "sameAs": [
-            "https://www.facebook.com/venshaqholdings",
-            "https://www.instagram.com/venshaqholdings/",
-            "https://www.linkedin.com/company/venshaq-holdings-limited",
-            "https://twitter.com/venshaq"
-          ],
-          "priceRange": "$$$$",
-          "image": "https://venshaq.com/venshaq/images/Venshaq.png",
-          "description": "venshaq holding is a private holding company for shemaq production, shaqs house , treven cleaners limited and prosborders construction limited the short term and long term businesses of the group.
-          ",
-          "address": {
-             "@type": "PostalAddress",
-             "streetAddress": "Malik Heights",
-             "addressLocality": "Nairobi",
-             "addressRegion": "Kenya",
-             "postalCode": "00100",
-             "addressCountry": "Kenya"
-          },
-           "openingHours": "Mo 01:00-01:00 Tu 01:00-01:00 We 01:00-01:00 Th 01:00-01:00 Fr 01:00-01:00 Sa 01:00-01:00 Su 01:00-01:00",
-           "telephone": "+1202540 0134"
-        }
-    </script>
+    @include('front.schema')
     {{-- Schema --}}
 
 </body>

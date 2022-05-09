@@ -45,7 +45,7 @@
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img
-                            src="{{asset('venshaq/images/resource/featured-image.jpg')}}" alt=""></div>
+                            src="{{asset('venshaq/images/resource/image-032.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
                 </div>

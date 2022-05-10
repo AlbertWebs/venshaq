@@ -38,7 +38,7 @@
 <!--End Banner Section -->
 
 <!--About Section-->
-<section class="about-section" id="about">
+<section class="about-section" id="about" style="background: url('{{url('/')}}/venshaq/images/van.jpg'); background-repeat: no-repeat; background-position:bottom right; background-size: 300px;">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Image Column-->
@@ -197,7 +197,7 @@
 
 
 <!--We DO Section-->
-<section class="we-do-section" id="portfolio" style="background: url('{{url('/')}}/venshaq/images/van.jpg'); background-repeat: no-repeat; background-position:bottom right; background-size: 300px;">
+<section class="we-do-section" id="portfolio">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->

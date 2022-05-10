@@ -217,17 +217,17 @@
                                             <ul>
                                                 <li><a href="#about">About</a></li>
                                                 <li><a href="#industries">Industries</a></li>
-                                                <li><a href="#">Our Companies</a></li>
-                                                <li><a href="#">Latest News</a></li>
-                                                <li><a href="#contact">Contact</a></li>
+                                                <li><a href="{{url('/')}}#brands">Our Companies</a></li>
+                                                {{-- <li><a href="#">Latest News</a></li> --}}
+                                                <li><a href="{{url('/')}}/#contact">Contact</a></li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6 col-sm-12">
                                             <ul>
-                                                <li><a href="#">Support</a></li>
-                                                <li><a href="#">Privacy Policy</a></li>
-                                                <li><a href="#">Terms of Use</a></li>
-                                                <li><a href="#">Help</a></li>
+                                                <li><a href="{{url('/')}}/#contact">Support</a></li>
+                                                <li><a href="{{url('/')}}/privacy-policy">Privacy Policy</a></li>
+                                                {{-- <li><a href="#">Terms of Use</a></li> --}}
+                                                <li><a href="{{url('/')}}/#contact">Help</a></li>
                                             </ul>
                                         </div>
                                     </div>

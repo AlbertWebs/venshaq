@@ -19,6 +19,7 @@ Route::get('/home', function () {
 // Route::get('/home', [HomeController::class, 'index'])->name('home-page');
 
 Route::get('/', [HomeController::class, 'index'])->name('home-page');
+Route::get('/privacy-policy', [HomeController::class, 'privacy_policy'])->name('privacy-policy');
 
 // House Of Shaq
 // Shemaq Productions

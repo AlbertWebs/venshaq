@@ -864,7 +864,8 @@ Prosborders prides herself with supplies of general construction material and ma
 </div>
 
 <!--Contact Section-->
-<section class="contact-section contact-section__one-page" style="background: url('{{url('/')}}/venshaq/images/image-031.jpg'); background-repeat: no-repeat">
+<section class="contact-section contact-section__one-page bg-imgs">
+    {{-- <section class="contact-section contact-section__one-page" style="background: url('{{url('/')}}/venshaq/images/image-031.jpg'); background-repeat: no-repeat"> --}}
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Offices Contacts<span class="dot">.</span></h2>

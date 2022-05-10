@@ -24008,9 +24008,18 @@ img.lazy-image.loaded {
     min-height:230px;
 } */
 
+
+
+.bg-imgs{
+    background-image: url('../images/image-031.jpg') !important;
+    background-repeat: no-repeat;
+    background-image: none;
+}
+
 @media (max-width: 568px) {
     .contact-sticky{display: none;}
     .mobile-d-none{visibility: hidden !important; }
+    .bg-imgs{
+        background-image: none !important;
+    }
 }
-
-

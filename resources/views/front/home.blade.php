@@ -64,8 +64,9 @@
                         <ul>
                             <li>Commercial Cleaning</li>
                             <li>Film Productions and Enterntainment.</li>
-                            <li>Farming,Fast Food & Beverage</li>
+                            <li>Fast Food & Beverage</li>
                             <li>Construction and Supplies</li>
+                            <li>Farming</li>
                         </ul>
                         <div class="since"><span class="txt">Since <br>2018</span></div>
                     </div>

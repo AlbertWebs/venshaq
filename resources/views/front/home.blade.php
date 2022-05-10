@@ -146,6 +146,19 @@
                     </div>
                 </div>
 
+                <!--Service Block-->
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-shopping-cart" aria-hidden="true"></span></div>
+                        <h5><a target="new" href="https://www.shaqsbites.com">Shaq's <br>Bites</a></h5>
+                        <div class="text">www.shaqsbites.com</div>
+                        <div class="link-box"><a href="https://www.shaqsbites.com"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+
+
             </div>
         </div>
     </div>
@@ -184,7 +197,7 @@
 
 
 <!--We DO Section-->
-<section class="we-do-section" id="portfolio">
+<section class="we-do-section" id="portfolio" style="background: url('{{url('/')}}/venshaq/images/van.jpg'); background-repeat: no-repeat; background-position:bottom right; background-size: 300px;">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->
@@ -312,6 +325,22 @@ Prosborders prides herself with supplies of general construction material and ma
                                     </div>
                                 </div>
                             </li>
+                            <br><br>
+                            {{--  --}}
+                            <li class="accordion block" style="visibility: hidden">
+                                <div class="acc-btn"><span class="count">5.</span> Construction & Supplies</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            Prosborders is a construction and supplies company that operates within Kenya and east Africa,
+
+Prosborders prides herself with supplies of general construction material and machinery. Prosborders also provides engineering and design personnel in contract basis.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            {{--  --}}
                         </ul>
                     </div>
                 </div>
@@ -650,6 +679,10 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="slide-item">
                     <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
                 </div>
+                <div class="slide-item">
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
+                </div>
+
 
             </div>
         </div>

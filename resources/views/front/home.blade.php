@@ -44,9 +44,9 @@
             <!--Image Column-->
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
-                    <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img
+                    <div class="image-block wow fadeInLeft mobile-d-none" data-wow-delay="0ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/image-032.jpg')}}" alt=""></div>
-                    <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms"><img
+                    <div class="image-block wow fadeInUp mobile-d-none" data-wow-delay="300ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
                 </div>
             </div>
@@ -327,18 +327,7 @@ Prosborders prides herself with supplies of general construction material and ma
                             </li>
                             <br><br>
                             {{--  --}}
-                            <li class="accordion block" style="visibility: hidden">
-                                <div class="acc-btn"><span class="count">5.</span> Construction & Supplies</div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            Prosborders is a construction and supplies company that operates within Kenya and east Africa,
 
-Prosborders prides herself with supplies of general construction material and machinery. Prosborders also provides engineering and design personnel in contract basis.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
 
                             {{--  --}}
                         </ul>

@@ -44,7 +44,7 @@
             <!--Image Column-->
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
-                    <div class="image-block wow fadeInLeft mobile-d-none" data-wow-delay="0ms" data-wow-duration="1500ms"><img
+                    <div class="image-block wow fadeInLeft mobile-d-nonae" data-wow-delay="0ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/image-032.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp mobile-d-none" data-wow-delay="300ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
@@ -55,10 +55,10 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h2>We’re a proffessional multi-industry<br>&nbsp; Agency<span class="dot">.</span></h2>
-                        <div class="lower-text">Venshaq Holding is a private holding company for Shemaq Production, Shaqs House, Shaqs Farm , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
+                        <div class="lower-text">Venshaq Holdings is a private holding company for Shemaq Productions, Shaq's House, Shaqs Farm , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
-                        <p>Venshaq Holding is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies ,Farm supplies and Enterntaiment. </p>
+                        <p>Venshaq Holdings is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies, Farming,  supplies and Enterntaiment. </p>
                     </div>
                     <div class="text clearfix">
                         <ul>
@@ -147,7 +147,7 @@
                 </div>
 
                 <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                {{-- <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
                 <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-shopping-cart" aria-hidden="true"></span></div>
@@ -155,7 +155,7 @@
                         <div class="text">www.shaqsbites.com</div>
                         <div class="link-box"><a href="https://www.shaqsbites.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
-                </div>
+                </div> --}}
 
 
 
@@ -246,6 +246,17 @@
                     <hr>
                     <div class="progress-box">
                         <div class="bar-title">Fast Food Delicacies </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Construction and Supplies </div>
                         <div class="bar">
                             <div class="bar-inner count-bar" data-percent="100%">
                                 <div class="count-box">
@@ -417,7 +428,7 @@ Prosborders prides herself with supplies of general construction material and ma
                     <div class="inner">
                         <div class="col-header">
                             <div class="header-inner">
-                                <span>We’re Committed To Deliver Amaizingly UnMatched Product & Services.</span>
+                                <span>We are Committed To Deliver Great Product and Services</span>
                             </div>
                         </div>
                         {{-- <div class="features">
@@ -437,7 +448,7 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="right-col col-xl-7 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
                         <div class="sec-title">
-                            <h2>We’re trusted by more <br>than 100 clients<span class="dot">.</span></h2>
+                            <h2>We Are trusted by more <br>than 100 clients<span class="dot">.</span></h2>
                             {{-- <div class="lower-text">There are many variations of passages of Lorem Ipsum
                                 available, but the majority have suffered alteration in some form, simply free
                                 text by injected humour, or randomised.</div> --}}
@@ -543,8 +554,7 @@ Prosborders prides herself with supplies of general construction material and ma
     <div class="auto-container">
         <div class="content-box">
             <div class="icon-box"><span class="flaticon-app-development"></span></div>
-            <h2>Great things in business are never done by one person. <span>They’re done by a team of
-                    people.</span></h2>
+            <h2>We have a <span>Great</span> Team</h2>
         </div>
     </div>
 </section>
@@ -768,8 +778,7 @@ Prosborders prides herself with supplies of general construction material and ma
                     <div class="sec-title">
                         <h2>We are always here to help you<span class="dot">.</span></h2>
                     </div>
-                    <div class="text">There are many variatns of passages the majority have suffered alteration
-                        in some foor randomised words believable.</div>
+                    <div class="text"><br><br></div>
                     <div class="info">
                         <ul>
                             <li class="address">
@@ -879,7 +888,7 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <h5>Shaqs House</h5>
+                        <h5>Shaq's House</h5>
                         <div class="text">
                             <ul class="info">
                                 <li>Malik Heights, 4th Floor Rm 406</li>

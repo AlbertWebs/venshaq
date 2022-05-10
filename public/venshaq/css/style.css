@@ -24010,7 +24010,7 @@ img.lazy-image.loaded {
 
 @media (max-width: 568px) {
     .contact-sticky{display: none;}
-    .mobile-d-none{display: none !important; }
+    .mobile-d-none{visibility: hidden !important; }
 }
 
 

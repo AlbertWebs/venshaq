@@ -195,7 +195,7 @@
                                         <a href="{{url('/')}}"><img id="fLogo" src="{{asset('venshaq/images/Venshaq.jpg')}}" alt="" /></a>
                                     </div>
                                     <div class="text">
-                                        Venshaq Holding is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies ,Farm supplies and Enterntaiment.
+                                        Venshaq Holdings is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies, Farm supplies and Enterntaiment.
                                     </div>
                                     <ul class="social-links clearfix">
                                         <li><a href="https://www.facebook.com/venshaqholdings"><span class="fab fa-facebook-square"></span></a></li>
@@ -233,7 +233,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> 
+                        </div>
 
                         <!--Column-->
                         <div class="column col-xl-3 col-lg-6 col-md-6 col-sm-12">
@@ -244,8 +244,7 @@
                                         <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4th Floor Rm 406
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
-                                        <li><span class="icon flaticon-email-2"></span><a
-                                                href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>
+                                        <li><span class="icon flaticon-email-2"></span><a href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -281,7 +280,7 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner clearfix">
-                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Holdings Limited All Rights Reserved</div>
+                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Holdings Limited all rights reserved</div>
                     </div>
                 </div>
             </div>

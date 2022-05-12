@@ -4910,7 +4910,7 @@ img.lazy-image.loaded {
 .facts-section .jarallax-img,
 .facts-section .image-layer {
   position: absolute;
-  left: 0;
+  left: 0px !important;
   top: 0;
   width: 100%;
   height: 100%;
@@ -4923,6 +4923,7 @@ img.lazy-image.loaded {
   -moz-filter: grayscale(100%);
   filter: grayscale(100%);
   opacity: 0.3;
+  padding-left:50px;
 }
 
 .facts-section.alternate .image-layer {
@@ -24040,5 +24041,10 @@ img.lazy-image.loaded {
     }
     .desktop-none{
         display: flex;
+    }
+    .venshaq-bg img{
+        object-fit:contain !important;
+        object-position: 54% 40% !important;
+        margin-left:-50px !important;
     }
 }

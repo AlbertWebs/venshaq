@@ -367,9 +367,9 @@ Prosborders prides herself with supplies of general construction material and ma
 
 
 <!-- Funfacts Section -->
-<section class="facts-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
+<section class="facts-section jarallax venshaq-bg" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">
     <!-- <div class="image-layer" style="background-image: url(images/background/image-1.jpg);"></div> -->
-    <img src="{{asset('venshaq/images/resource/pexels-pixabay-416320.jpg')}}" alt="" class="jarallax-img">
+    <img src="{{asset('venshaq/images/resource/pexels-pixabay-416320.jpg')}}" alt="Venshaq Holdings Limited" class="jarallax-img">
     <div class="auto-container">
         <div class="inner-container">
 

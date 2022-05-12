@@ -24016,10 +24016,19 @@ img.lazy-image.loaded {
     background-image: none;
 }
 
+.about-bg{
+    background: url('../images//van.jpg');
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-size: 300px;
+}
 @media (max-width: 568px) {
     .contact-sticky{display: none;}
     .mobile-d-none{visibility: hidden !important; }
     .bg-imgs{
+        background-image: none !important;
+    }
+    .about-bg{
         background-image: none !important;
     }
 }

@@ -24031,4 +24031,7 @@ img.lazy-image.loaded {
     .about-bg{
         background-image: none !important;
     }
+    .abt-img{
+        margin:0 auto !important;
+    }
 }

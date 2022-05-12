@@ -44,7 +44,7 @@
             <!--Image Column-->
             <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
-                    <div class="image-block wow fadeInLeft mobile-d-nonae" data-wow-delay="0ms" data-wow-duration="1500ms"><img
+                    <div class="image-block wow fadeInLeft mobile-d-nonae abt-img" data-wow-delay="0ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/image-032.jpg')}}" alt=""></div>
                     <div class="image-block wow fadeInUp mobile-d-none" data-wow-delay="300ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
@@ -682,8 +682,9 @@ Prosborders prides herself with supplies of general construction material and ma
                 <div class="slide-item">
                     <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
                 </div>
-
-
+                <div class="slide-item">
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/ProsBorders.jpg')}}" alt=""></a></figure>
+                </div>
             </div>
         </div>
     </div>

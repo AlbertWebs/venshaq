@@ -24039,6 +24039,6 @@ img.lazy-image.loaded {
         margin:0 auto !important;
     }
     .desktop-none{
-        display: block;
+        display: flex;
     }
 }

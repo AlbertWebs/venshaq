@@ -24017,10 +24017,14 @@ img.lazy-image.loaded {
 }
 
 .about-bg{
-    background: url('../images//van.jpg');
+    /* background: url('../images//van.jpg');
     background-repeat: no-repeat;
     background-position:bottom right;
-    background-size: 300px;
+    background-size: 300px; */
+    background-image: none !important;
+}
+.desktop-none{
+    display: none;
 }
 @media (max-width: 568px) {
     .contact-sticky{display: none;}
@@ -24033,5 +24037,8 @@ img.lazy-image.loaded {
     }
     .abt-img{
         margin:0 auto !important;
+    }
+    .desktop-none{
+        display: block;
     }
 }

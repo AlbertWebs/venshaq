@@ -49,7 +49,24 @@
                     <div class="image-block wow fadeInUp mobile-d-none" data-wow-delay="300ms" data-wow-duration="1500ms"><img
                             src="{{asset('venshaq/images/resource/photo_2022-04-27_08-00-31.jpg')}}" alt=""></div>
                 </div>
+                {{--  --}}
+
+                <div class="row desktop-none">
+
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                <img src="{{asset('venshaq/images/photo_2022-04-27_08-00-31.jpg')}}" alt="">
+                            </div>
+
+
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                <img src="{{asset('venshaq/images/image-031.jpg')}}" alt="">
+                            </div>
+
+                </div>
+
+                {{--  --}}
             </div>
+
             <!--Text Column-->
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">

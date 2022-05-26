@@ -110,7 +110,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
                         <h5><a target="new" href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
-                        <div class="text">www.trevencleanersltd.co.ke</div>
+                        {{-- <div class="text">www.trevencleanersltd.co.ke</div> --}}
                         <div class="link-box"><a href="https://www.trevencleanersltd.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -120,9 +120,9 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
                         <h5><a target="new" href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
-                        <div class="text">
+                        {{-- <div class="text">
                             www.pros-borders.com
-                        </div>
+                        </div> --}}
                         <div class="link-box"><a href="https://www.pros-borders.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
                         <h5><a target="new" href="https://www.shaqhouse.co.ke">Fast Food <br>Delivery</a></h5>
-                        <div class="text">www.shaqshouse.co.ke</div>
+                        {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
                         <div class="link-box"><a href="https://www.shaqshouse.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>

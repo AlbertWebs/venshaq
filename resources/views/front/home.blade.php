@@ -68,10 +68,10 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h2>We’re a proffessional multi-industry<br>&nbsp; Agency<span class="dot">.</span></h2>
-                        <div class="lower-text">Venshaq Holdings is a private holding company for Shemaq Productions, Shaq's House, Shaqs Farm , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
+                        <div class="lower-text">Venshaq Holdings is a private holding company for Shemaq Productions, Shaq's House, Shaq's Farm , Treven Cleaners Limited and Prosborders Construction Limited the short term and long term businesses of the group. </div>
                     </div>
                     <div class="text">
-                        <p>Venshaq Holdings is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies, Farming,  supplies and Enterntaiment. </p>
+                        <p>Venshaq Holdings has a market-leading range of services like Commercial Cleaning, Food and Beverage, Construction and Supplies, Farming and Enterntaiment. </p>
                     </div>
                     <div class="text clearfix">
                         <ul>
@@ -144,7 +144,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
                         <h5><a target="new" href="https://www.shemaq.com">Enterntainment <br>Production</a></h5>
-                        <div class="text">www.shemaq.com</div>
+                        {{-- <div class="text">www.shemaq.com</div> --}}
                         <div class="link-box"><a href="https://www.shemaq.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
                         <h5><a target="new" href="https://www.sheqsfarm.com">Farming &<br>Meat Production</a></h5>
-                        <div class="text">www.shaqsfarm.com</div>
+                        {{-- <div class="text">www.shaqsfarm.com</div> --}}
                         <div class="link-box"><a href="https://www.shaqsfarm.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>

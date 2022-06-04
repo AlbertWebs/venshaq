@@ -8620,7 +8620,7 @@ img.lazy-image.loaded {
 
 @media (min-width: 992px) {
   .testimonials-six__content {
-    font-size: 50px;
+    font-size: 30px;
   }
   .testimonials-six__content br {
     display: inherit;
@@ -24047,4 +24047,20 @@ img.lazy-image.loaded {
         object-position: 54% 40% !important;
         margin-left:-50px !important;
     }
+}
+
+.theme-text{
+   color:#A59164 !important;
+}
+.theme-white{
+    color:#ffffff !important;
+ }
+
+ @media (max-width: 992px) {
+    .testimonials-six__content {
+      font-size: 20px;
+    }
+  }
+.tag-line{
+    color:#0C2435;
 }

@@ -95,12 +95,13 @@
     </div>
 </section>
 
+
+
 <!--Services Section-->
 <section class="services-section-three services-section-three__one-page" id="approach">
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Centers Of Excellence<span class="dot">.</span></h2>
-            <h5 class="theme-text">We invest where we can attain the highest growth opportunities and advancements, by focussing our investments on businesses in Frontier Markets <span class="dot">.</span></h5>
         </div>
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
@@ -176,23 +177,8 @@
             </div>
         </div>
     </div>
-
 </section>
 
-<section class="testimonials-six we-do-section" id="portfolio">
-    <div class="auto-container">
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="testimonials-six__item">
-                        <p class="testimonials-six__content">We explore and seek to acquire a broad range of opportunities in underserved consumer goods and services with strong potential for growth through strategic planning and targeted capital channelling. With the aim of investing in innovation, cultivating creativity and remaining resilient, our accelerator strategy endorses our trial models with direct investments, strengthening our reach in Frontier Markets</p><!-- /.testimonials-six__content -->
-                    </div><!-- /.testimonials-six__item -->
-                </div><!-- /.swiper-slide -->
-            </div><!-- /.swiper-wrapper -->
-        </div><!-- /.swiper-container thm-swiper__slider -->
-        {{-- <hr> --}}
-    </div><!-- /.auto-container -->
-</section><!-- /.testimonials-six -->
 
 
 
@@ -201,9 +187,6 @@
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Experience us live<span class="dot">.</span></h2>
-            <div class="sec-title centered">
-                <h6 class="theme-text"> Each of our businesses has been championed keeping in mind the hyper-competitive global and regional business arena. We take initiatives to sustain our overall competitive lead by empowering innovative ideas and value systems that are consistent with those of our founders <span class="dot">.</span></h6>
-            </div>
         </div>
         <div class="main-image-box">
             <div class="image-layer" style="background-image: url({{asset('venshaq/images/resource/pexels-christina-morillo-1181406.jpg')}});"></div>
@@ -211,13 +194,13 @@
                 <div class="round-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="round-inner">
                         <div class="vid-link">
-                            <a href="#" class="lightbox-image">
+                            <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="lightbox-image">
                                 <div class="icon"><span class="flaticon-play-button-1"></span><i
                                         class="ripple"></i></div>
                             </a>
                         </div>
                         <div class="title">
-                            <h4>Committed to Long-term Product and Service Excellence</h4>
+                            <h3>Clients Satisfaction <br>Our Hapiness</h3>
                         </div>
                         <div class="more-link scrollToLink"><a href="#about">Read More</a></div>
                     </div>
@@ -230,7 +213,6 @@
 
 <!--We DO Section-->
 <section class="we-do-section" id="portfolio">
-
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->
@@ -246,7 +228,6 @@
                     </div> --}}
                     <div class="progress-box">
                         <div class="bar-title">Motion Picture & Media Production</div>
-
                         <div class="bar">
                             <div class="bar-inner count-bar" data-percent="100%">
                                 <div class="count-box">
@@ -315,7 +296,6 @@
                                 <div class="acc-content">
                                 {{-- <div class="acc-content current"> --}}
                                     <div class="content">
-                                        <h5 class="tag-line">The Clean Choice</h5>
                                         <div class="text">
                                             Treven Cleaners Limited, is a full-service janitorial services provider offering comprehensive and professional cleaning solutions that are bespoke, high-quality and pocket-friendly to our residential and corporate clientele alike.
                                         </div>
@@ -329,7 +309,6 @@
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <h5 class="tag-line">Creating and Delivering Your Vision</h5>
                                         <div class="text">
                                           Shemaq Productions offers a robust roster of highly experienced directors and producers with distinct yet complementary strengths and passions. Whether it's electronic content distribution, our specialist live event management services or traditional TVCs and documentaries, their end-to-end solutions offer the highest level of creative expertise.
                                         </div>
@@ -342,7 +321,6 @@
                                 <div class="acc-btn"><span class="count">3.</span> Meal Delivery Services</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <h5 class="tag-line">Providing quality consistent food that tastes great every single time</h5>
                                         <div class="text">
                                            Shaqs House offers meal delivery services for the busy lifestyle. From sell-out favourites to traditional delicacies, our offerings guarantee freshness and keep things interesting with a variety of responsibly sourced, quality ingredients. Shaqs house takes orders from their website and delivers to your home or offices just in time.</div>
                                     </div>
@@ -354,7 +332,6 @@
                                 <div class="acc-btn"><span class="count">4.</span> Agri-business</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <h5 class="tag-line">Offering an array of high quality, specialty protein for a superior eating experience</h5>
                                         <div class="text">
                                             For over a decade, Shaqs Farm has produced healthy, high end food products that go into some of the finest regional recipes. Shaqs Farm is committed to producing quality, value added meat products to all its customers through the procurement, processing, packaging and delivery of premium products.
                                         </div>
@@ -367,7 +344,6 @@
                                 <div class="acc-btn"><span class="count">5.</span> Construction & Supplies</div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <h5 class="tag-line">Building, Equipping and Maintaining Your Business with Client-Focused Construction Solutions</h5>
                                         <div class="text">
                                             Pros Borders Limited, is a multi-disciplinary civil engineering and construction company with proven capabilities over a wide range of different technical fields in the Civil Engineering and Building Works industries, respectively. Over the years, we have helped create, connect and care for the roads, bridges and buildings that bring people and communities together.
                                         </div>

@@ -4,16 +4,11 @@
 
 <head>
     <meta charset="utf-8">
-    
-    <title> Venshaq Holdings – Accelerating Sustainable Business Growth | Treven Cleaners | Shaqs House | Shemaq Productions | Shaqs Farm | Pros Borders | Nairobi, Kenya </title>
-    <meta name=”description” content="Venshaq Holdings Limited is a secured and consolidated privated holding company with a robust portfolio of companies representing a broad range of services and industries. Commercial Cleaners Kenya, Meal Delivery Services, Motion Picture and Film Production, Agri-business, Construction and Supplies, Ngong Rd, Malik Heights, Nairobi – Kenya"/>
-    <meta name=”keywords” content="business investment, holding company,business daily, business plan, business ideas, business daily kenya, business whatsapp, business daily Africa, business plan sample, business plan sample pdf, business ideas in kenya, business online, business management, business card, business studies, business cards designs, business name generator, business ethics, business model, business management course,
-     business proposal sample, business news kenya, business quotes, investment opportunities in kenya, business model canvas, business administration, business name, investment meaning, business registration in kenya"/>
-
-    <meta name=”author” content="https://www.venshaq.com"/>
+    <title>Venshaq Holdings Limited | Treven Cleaners Limited | Shaqs House | Shemaq Productions</title>
+    {{--  --}}
+    <meta name="description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <link rel="canonical" href="https://venshaq.com"/>
-    
-
+    <meta name="author" content="Designekta Studios">
     <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <meta property="og:image" content="https://venshaq.com/venshaq/images/Venshaq.png" />
     <meta property="fb:app_id" content="431980657174772" />
@@ -97,8 +92,9 @@
                                 <ul class="navigation clearfix one-page-scroll-menu">
                                     <li class="scrollToLink"><a href="#home">Home</a></li>
                                     <li class="scrollToLink"><a href="#about">About</a></li>
-                                    <li class="scrollToLink"><a href="#approach">Approach</a></li>
+                                    <li class="scrollToLink"><a href="#industries">Industries</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
+                                    <li class="scrollToLink"><a href="#brands">Brands</a></li>
                                     {{-- <li class="scrollToLink"><a href="#team">Team</a></li> --}}
 
                                     {{-- <li class="scrollToLink"><a href="#blog">Blog</a></li> --}}
@@ -119,7 +115,7 @@
                             <div class="call-us">
                                 <a class="link" href="tel:+1 (202) 540 0134">
                                     <span class="icon"></span>
-                                    <span class="sub-text">Give Us a Call!</span>
+                                    <span class="sub-text">Call Anytime</span>
                                     <span class="number">+1 (202) 540 0134</span>
                                 </a>
                             </div>
@@ -199,7 +195,7 @@
                                         <a href="{{url('/')}}"><img id="fLogo" src="{{asset('venshaq/images/Venshaq.jpg')}}" alt="" /></a>
                                     </div>
                                     <div class="text">
-                                        Venshaq Holdings is a secured and consolidated privated holding company with robust portfolio of companies representing a broad range of services and industries.
+                                        Venshaq Holdings is a market-leading range of services like Commercial Cleaning, Food and Beverage, construction and supplies, Farm supplies and Enterntaiment.
                                     </div>
                                     <ul class="social-links clearfix">
                                         <li><a href="https://www.facebook.com/venshaqholdings"><span class="fab fa-facebook-square"></span></a></li>
@@ -220,8 +216,8 @@
                                         <div class="col-md-6 col-sm-12">
                                             <ul>
                                                 <li><a href="#about">About</a></li>
-                                                <li><a href="#sectors">Sectors</a></li>
-                                                <li><a href="{{url('/')}}#brands">Our Brands</a></li>
+                                                <li><a href="#industries">Industries</a></li>
+                                                <li><a href="{{url('/')}}#brands">Our Companies</a></li>
                                                 <li><a href="{{url('/')}}/#contact">Contact</a></li>
                                             </ul>
                                         </div>

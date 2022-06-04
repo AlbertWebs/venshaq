@@ -3862,7 +3862,7 @@ img.lazy-image.loaded {
   margin-left: -410px;
   width: 50%;
   height: 100%;
-  background: #f4f5f8;
+  /* background: #f4f5f8; */
 }
 
 .about-section .image-column {
@@ -5784,7 +5784,7 @@ img.lazy-image.loaded {
 ***/
 .agency-section {
   position: relative;
-  padding: 120px 0px 80px;
+  padding: 80px 0px 80px;
   background: #ffffff url(../images/background/pattern-2.png) left top repeat;
 }
 
@@ -5828,7 +5828,7 @@ img.lazy-image.loaded {
 
 .agency-section .left-col {
   position: relative;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 .agency-section .left-col .inner {
@@ -5839,7 +5839,7 @@ img.lazy-image.loaded {
 
 .agency-section .right-col {
   position: relative;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 .agency-section .right-col .inner {
@@ -24055,6 +24055,10 @@ img.lazy-image.loaded {
 .theme-white{
     color:#ffffff !important;
  }
+ .theme-black{
+    color:#000000 !important;
+ }
+
 
  @media (max-width: 992px) {
     .testimonials-six__content {
@@ -24063,4 +24067,8 @@ img.lazy-image.loaded {
   }
 .tag-line{
     color:#0C2435;
+}
+.values-ul li{
+    /* float:left;
+    margin-right:30px; */
 }

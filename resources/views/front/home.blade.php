@@ -63,6 +63,7 @@
                 {{--  --}}
             </div>
 
+
             <!--Text Column-->
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
@@ -88,6 +89,98 @@
                             <i class="btn-curve"></i>
                             <span class="btn-title">Discover Companies</span>
                         </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Agency Section-->
+<section class="agency-section">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!--Left Column-->
+            <div class="left-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                <div class="inner">
+
+
+                    <!--Default Tabs-->
+                    <div class="default-tabs tabs-box">
+
+                        <!--Tab Btns-->
+                        <ul class="tab-btns tab-buttons clearfix">
+                            <li data-tab="#tab-1" class="tab-btn active-btn"><span>Our Mission</span></li>
+                            <li data-tab="#tab-2" class="tab-btn"><span>Our Vision</span></li>
+                            {{-- <li data-tab="#tab-3" class="tab-btn"><span>Our History</span></li> --}}
+                        </ul>
+
+                        <!--Tabs Container-->
+                        <div class="tabs-content">
+
+                            <!--Tab-->
+                            <div class="tab active-tab" id="tab-1">
+                                <div class="content">
+                                    <div class="text theme-black">Our mission is to enhance, empower, advance and improve the lives of our stakeholders. We strive to create sustainable business growth through the generation of opportunities with greater value and increased returns.</div>
+                                </div>
+                            </div>
+
+                            <!--Tab-->
+                            <div class="tab" id="tab-2">
+                                <div class="content">
+                                    <div class="text theme-black">To build a world-class, robust and diversified holding company that is growth and innovation driven, profitable and provides value to our stakeholders and the communities we serve.</div>
+                                </div>
+                            </div>
+                            <hr>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Right Column-->
+            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                <div class="inner">
+                    {{--  --}}
+                    <div class="sec-title centered">
+                        <h5>Our Core Values<span class="dot">.</span></h5>
+                    </div>
+                    {{--  --}}
+                    <div class="text theme-black">Our customer focus is a strong contributor to the overall success of our business ventures. Throughout our business lines, we have developed a personalized approach at all customer touchpoints.</div>
+                    <div class="text">
+                        <ul class="m-0 list-unstyled feature-six__list values-ul">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Integrity, Trust and Credibility
+                                    </li>
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Focused on Results
+                                    </li>
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Sustainable Impact
+                                    </li>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Transparency & Accountability
+                                    </li>
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Collaboration
+                                    </li>
+                                    <li class="feature-six__list__item">
+                                        <i class="flaticon-check-symbol"></i>
+                                        Customer Focussed
+                                    </li>
+                                </div>
+                            </div>
+
+                        </ul>
                     </div>
                 </div>
             </div>

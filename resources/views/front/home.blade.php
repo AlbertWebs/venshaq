@@ -68,7 +68,8 @@
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        <h2>Hello!<br>We are Venshaq Holdings, Dedicated to growth & Positive Impact<span class="dot">.</span></h2>
+                        {{-- <h2>Hello!<br>We are Venshaq Holdings, Dedicated to growth & Positive Impact<span class="dot">.</span></h2> --}}
+                        <h2>Dedicated to growth & Positive Impact<span class="dot">.</span></h2>
                         <div class="lower-text">Venshaq Holdings is a private holding company established in 2018. At our establishment, we have secured and consolidated a robust portfolio of companies representing a broad range of services and industries. Our investments are focused on positively impacting communities by creating opportunities that drive business growth and improve lives.  </div>
                     </div>
                     <div class="text">

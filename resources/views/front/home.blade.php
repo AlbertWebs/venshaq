@@ -113,7 +113,6 @@
                         <ul class="tab-btns tab-buttons clearfix">
                             <li data-tab="#tab-1" class="tab-btn active-btn"><span>Our Mission</span></li>
                             <li data-tab="#tab-2" class="tab-btn"><span>Our Vision</span></li>
-                            {{-- <li data-tab="#tab-3" class="tab-btn"><span>Our History</span></li> --}}
                         </ul>
 
                         <!--Tabs Container-->
@@ -140,6 +139,7 @@
                 </div>
             </div>
             <!--Right Column-->
+
             <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     {{--  --}}
@@ -850,7 +850,7 @@
 
         <div class="upper-info">
             <div class="row clearfix">
-                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0ms"
+                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>ShemaQ Productions</h5>
@@ -862,9 +862,9 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
-                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
+                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>Shaq's House</h5>
@@ -876,23 +876,66 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
-                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms"
+                <div style="margin:0px auto;" class="info-block col-xl-9 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms"
                     data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <h5>Treven Cleaners</h5>
-                        <div class="text">
-                            <ul class="info">
-                                <li>Malik Heights, 4th Floor Rm 406</li>
-                                <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
-                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                            </ul>
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="text">
+                                    <h5>ShemaQ Productions</h5>
+                                    <ul class="info">
+                                        <li><a href="mailto:treven@venshaq.com">shemaq@venshaq.com</a></li>
+                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                                    </ul>
+                                </div>
+                                <div class="text">
+                                    <h5>Shaq's House</h5>
+                                    <ul class="info">
+                                        <li><a href="mailto:treven@venshaq.com">info@shaqshouse.com</a></li>
+                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="text">
+                                    <h5>Treven Cleaners</h5>
+                                    <ul class="info">
+                                        <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
+                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                                    </ul>
+                                </div>
+                                <div class="text">
+                                    <h5>Shaqs Farm </h5>
+                                    <ul class="info">
+                                        <li><a href="mailto:treven@venshaq.com">farm@venshaq.com</a></li>
+                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="text">
+                                    <h5>Pros Borders</h5>
+                                    <ul class="info">
+                                        <li><a href="mailto:treven@venshaq.com">info@prosborders.com</a></li>
+                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
-                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
+
+
+                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>Shaqs Farm House</h5>
@@ -904,7 +947,7 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
             </div>
         </div>

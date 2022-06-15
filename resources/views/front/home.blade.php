@@ -102,7 +102,7 @@
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->
-            <div class="left-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+            {{-- <div class="left-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
 
 
@@ -137,9 +137,28 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!--Right Column-->
+            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                <div class="inner">
+                    {{--  --}}
+                    <div class="sec-title centered">
+                        <h5>Our Mission<span class="dot">.</span></h5>
+                    </div>
+                    {{--  --}}
+                    <div class="text theme-black">Our mission is to enhance, empower, advance and improve the lives of our stakeholders. We strive to create sustainable business growth through the generation of opportunities with greater value and increased returns.</div>
 
+                    {{--  --}}
+                    {{--  --}}
+                    <div class="sec-title centered">
+                        <h5>Our Vision<span class="dot">.</span></h5>
+                    </div>
+                    {{--  --}}
+                    <div class="text theme-black">To build a world-class, robust and diversified holding company that is growth and innovation driven, profitable and provides value to our stakeholders and the communities we serve.</div>
+
+                    {{--  --}}
+                </div>
+            </div>
             <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     {{--  --}}

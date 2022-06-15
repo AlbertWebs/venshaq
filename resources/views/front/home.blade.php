@@ -86,7 +86,7 @@
                         <div class="since"><span class="txt">EST. <br>2018</span></div>
                     </div>
                     <div class="link-box scrollToLink">
-                        <a class="theme-btn btn-style-one" href="#industries">
+                        <a class="theme-btn btn-style-one" href="#approach">
                             <i class="btn-curve"></i>
                             <span class="btn-title">Discover Companies</span>
                         </a>

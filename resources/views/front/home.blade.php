@@ -77,9 +77,9 @@
                     </div>
                     <div class="text clearfix">
                         <ul>
-                            <li>Commercial Janitorial Services</li>
+                            <li>Commercial Cleaning & Janitorial Services</li>
                             <li>Motion Picture and Media Production.</li>
-                            <li>Meal Delivery Services</li>
+                            <li>Food, Beverage and Delivery</li>
                             <li>Construction and Supplies</li>
                             <li>Agri-Business</li>
                         </ul>
@@ -203,7 +203,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/commercial-cleaning">Commercial <br>Cleaning</a></h5>
+                        <h5><a target="new" href="{{url('/')}}/sectors/commercial-cleaning">Commercial Cleaning &  <br>Janitorial Services</a></h5>
                         {{-- <div class="text">www.trevencleanersltd.co.ke</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/commercial-cleaning"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -226,7 +226,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food &<br>Beverage</a></h5>
+                        <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food, Beverage & Delivery<br></a></h5>
                         {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/foot-and-beverages"><span class="fa fa-angle-right"></span></a></div>
                     </div>
@@ -756,7 +756,7 @@
                         <div class="lower-text">Get In Touch With Us Today. </div>
 
                     </div>
-                    <div class="text"><br><br></div>
+                    {{-- <div class="text"><br><br></div> --}}
                     <div class="info">
                         <ul>
                             <li class="address">

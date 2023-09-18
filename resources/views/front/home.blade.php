@@ -661,22 +661,22 @@
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="trevencleanersltd.co.ke"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="https://shemaqproductions.com/"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/ProsBorders.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="https://prosborders.co.ke/"><img src="{{asset('venshaq/images/clients/ProsBorders.jpg')}}" alt=""></a></figure>
                 </div>
             </div>
         </div>
@@ -781,7 +781,7 @@
                             <li class="address">
                                 <span class="icon flaticon-pin-1"></span>
                                 <strong>Visit Us</strong>
-                                Ngong Rd, Malik Heights, 4th Floor Rm 406
+                                Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                             </li>
                             <li>
                                 <span class="icon flaticon-email-2"></span>
@@ -905,14 +905,14 @@
                                 <div class="text">
                                     <h5>ShemaQ Productions</h5>
                                     <ul class="info">
-                                        <li><a href="mailto:treven@venshaq.com">shemaq@venshaq.com</a></li>
+                                        <li><a href="mailto:info@shemaqproductions.com">info@shemaqproductions.com</a></li>
                                         <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                                     </ul>
                                 </div>
                                 <div class="text">
                                     <h5>Shaq's House</h5>
                                     <ul class="info">
-                                        <li><a href="mailto:treven@venshaq.com">info@shaqshouse.com</a></li>
+                                        <li><a href="mailto:info@shaqshouse.com">info@shaqshouse.com</a></li>
                                         <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                                     </ul>
                                 </div>
@@ -923,14 +923,14 @@
                                 <div class="text">
                                     <h5>Treven Cleaners</h5>
                                     <ul class="info">
-                                        <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
+                                        <li><a href="mailto:info@trevencleanersltd.co.ke">info@trevencleanersltd.co.ke</a></li>
                                         <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                                     </ul>
                                 </div>
                                 <div class="text">
                                     <h5>Shaqs Farm </h5>
                                     <ul class="info">
-                                        <li><a href="mailto:treven@venshaq.com">farm@venshaq.com</a></li>
+                                        <li><a href="mailto:info@shaqsfarm.com">info@shaqsfarm.com</a></li>
                                         <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                                     </ul>
                                 </div>
@@ -941,7 +941,7 @@
                                 <div class="text">
                                     <h5>Pros Borders</h5>
                                     <ul class="info">
-                                        <li><a href="mailto:treven@venshaq.com">info@prosborders.com</a></li>
+                                        <li><a href="mailto:info@prosborders.com">info@prosborders.com</a></li>
                                         <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                                     </ul>
                                 </div>

@@ -243,7 +243,7 @@
                                 <div class="widget-content">
                                     <h6>Contact</h6>
                                     <ul class="contact-info">
-                                        <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4th Floor Rm 406
+                                        <li class="address"><span class="icon flaticon-pin-1"></span> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
                                         <li><span class="icon flaticon-email-2"></span><a href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>

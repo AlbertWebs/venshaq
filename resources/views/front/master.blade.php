@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    
+
     <title> Venshaq Holdings – Accelerating Sustainable Business Growth | Treven Cleaners | Shaqs House | Shemaq Productions | Shaqs Farm | Pros Borders | Nairobi, Kenya </title>
     <meta name=”description” content="Venshaq Holdings Limited is a secured and consolidated privated holding company with a robust portfolio of companies representing a broad range of services and industries. Commercial Cleaners Kenya, Meal Delivery Services, Motion Picture and Film Production, Agri-business, Construction and Supplies, Ngong Rd, Malik Heights, Nairobi – Kenya"/>
     <meta name=”keywords” content="business investment, holding company,business daily, business plan, business ideas, business daily kenya, business whatsapp, business daily Africa, business plan sample, business plan sample pdf, business ideas in kenya, business online, business management, business card, business studies, business cards designs, business name generator, business ethics, business model, business management course,
@@ -12,7 +12,7 @@
 
     <meta name=”author” content="https://www.venshaq.com"/>
     <link rel="canonical" href="https://venshaq.com"/>
-    
+
 
     <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <meta property="og:image" content="https://venshaq.com/venshaq/images/Venshaq.png" />
@@ -243,7 +243,7 @@
                                 <div class="widget-content">
                                     <h6>Contact</h6>
                                     <ul class="contact-info">
-                                        <li class="address"><span class="icon flaticon-pin-1"></span> Ngong Rd, Malik Heights, 4th Floor Rm 406
+                                        <li class="address"><span class="icon flaticon-pin-1"></span> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
                                         <li><span class="icon flaticon-email-2"></span><a href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>

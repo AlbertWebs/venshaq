@@ -105,7 +105,8 @@
                         <h5>ShemaQ Productions</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4th Floor Rm 406</li>
+                                <li> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
+                                            Nairobi <br>Kenya</li>
                                 <li><a href="mailto:shemaq@venshaq.com">shemaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -119,7 +120,8 @@
                         <h5>Shaq's House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4th Floor Rm 406</li>
+                                <li> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
+                                            Nairobi <br>Kenya</li>
                                 <li><a href="mailto:shaq@venshaq.com">shaq@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -133,7 +135,8 @@
                         <h5>Treven Cleaners</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4th Floor Rm 406</li>
+                                <li> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
+                                            Nairobi <br>Kenya</li>
                                 <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>
@@ -147,7 +150,8 @@
                         <h5>Shaqs Farm House</h5>
                         <div class="text">
                             <ul class="info">
-                                <li>Malik Heights, 4th Floor Rm 406</li>
+                                <li> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
+                                            Nairobi <br>Kenya</li>
                                 <li><a href="mailto:farm@venshaq.com">farm@venshaq.com</a></li>
                                 <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
                             </ul>

@@ -77,11 +77,12 @@
                     </div>
                     <div class="text clearfix">
                         <ul>
+                            <li>Agri-Business</li>
+                            <li>Food, Beverage and Delivery</li>
                             <li>Commercial Cleaning & Janitorial Services</li>
                             <li>Motion Picture and Media Production.</li>
-                            <li>Food, Beverage and Delivery</li>
                             <li>Construction and Supplies</li>
-                            <li>Agri-Business</li>
+
                         </ul>
                         <div class="since"><span class="txt">EST. <br>2018</span></div>
                     </div>

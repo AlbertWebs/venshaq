@@ -218,6 +218,30 @@
         </div>
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
+
+                <!--Service Block-->
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
+                        <h5><a target="new" href="{{url('/')}}/sectors/farming-and-meat-production">Farming &<br>Meat Production</a></h5>
+                        {{-- <div class="text">www.shaqsfarm.com</div> --}}
+                        <div class="link-box"><a href="{{url('/')}}/sectors/farming-and-meat-production"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                 <!--Service Block-->
+                 <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-digital"></span></div>
+                        <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food, Beverage & Delivery<br></a></h5>
+                        {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
+                        <div class="link-box"><a href="{{url('/')}}/sectors/foot-and-beverages"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+
                 <!--Service Block-->
                 <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
@@ -226,6 +250,17 @@
                         <h5><a target="new" href="{{url('/')}}/sectors/commercial-cleaning">Commercial Cleaning &  <br>Janitorial Services</a></h5>
                         {{-- <div class="text">www.trevencleanersltd.co.ke</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/commercial-cleaning"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                  <!--Service Block-->
+                  <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
+                        <h5><a target="new" href="{{url('/')}}/sectors/motion-pictures-and-media-production">Motion Picture &<br>Media Production</a></h5>
+                        {{-- <div class="text">www.shemaq.com</div> --}}
+                        <div class="link-box"><a href="{{url('/')}}/sectors/motion-pictures-and-media-production"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
@@ -241,38 +276,10 @@
                     </div>
                 </div>
 
-                <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food, Beverage & Delivery<br></a></h5>
-                        {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
-                        <div class="link-box"><a href="{{url('/')}}/sectors/foot-and-beverages"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
 
-                <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/motion-pictures-and-media-production">Motion Picture &<br>Media Production</a></h5>
-                        {{-- <div class="text">www.shemaq.com</div> --}}
-                        <div class="link-box"><a href="{{url('/')}}/sectors/motion-pictures-and-media-production"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
 
-                <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/farming-and-meat-production">Farming &<br>Meat Production</a></h5>
-                        {{-- <div class="text">www.shaqsfarm.com</div> --}}
-                        <div class="link-box"><a href="{{url('/')}}/sectors/farming-and-meat-production"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
+
+
             </div>
         </div>
     </div>
@@ -310,12 +317,12 @@
             <div class="inner clearfix">
                 <div class="round-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="round-inner">
-                        <div class="vid-link">
+                        {{-- <div class="vid-link">
                             <a href="#" class="lightbox-image">
                                 <div class="icon"><span class="flaticon-play-button-1"></span><i
                                         class="ripple"></i></div>
                             </a>
-                        </div>
+                        </div> --}}
                         <div class="title">
                             <h4>Committed to Long-term Product and Service Excellence</h4>
                         </div>

@@ -156,7 +156,7 @@
                 <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
                 <div class="side-menu__content">
                     <p>Venshaq Holding Limited</p>
-                    <p><a href="mailto:hello@venshaq.com">hello@venshaq.com</a> <br> <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></p>
+                    <p><a href="mailto:info@venshaq.com">info@venshaq.com</a> <br> <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></p>
                     <div class="side-menu__social">
                         <a href="https://www.facebook.com/venshaqholdings"><i class="fab fa-facebook-square"></i></a>
                         <a href="https://twitter.com/venshaq"><i class="fab fa-twitter"></i></a>
@@ -246,7 +246,7 @@
                                         <li class="address"><span class="icon flaticon-pin-1"></span> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
-                                        <li><span class="icon flaticon-email-2"></span><a href="mailto:hello@venshaq.com">hello@venshaq.com</a></li>
+                                        <li><span class="icon flaticon-email-2"></span><a href="mailto:info@venshaq.com">info@venshaq.com</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -282,7 +282,7 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner clearfix">
-                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Holdings Limited all rights reserved</div>
+                        <div class="copyright">&copy; Copyright <?php echo date('Y') ?> Venshaq Holdings Limited all rights reserved</div>
                     </div>
                 </div>
             </div>

@@ -669,7 +669,10 @@
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="trevencleanersltd.co.ke"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="http://shaqsfarm.com/"><img src="{{asset('venshaq/images/clients/logo-color.jpg')}}" alt=""></a></figure>
+                </div>
+                <div class="slide-item">
+                    <figure class="image-box"><a href="http://trevencleanersltd.co.ke"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
                     <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>

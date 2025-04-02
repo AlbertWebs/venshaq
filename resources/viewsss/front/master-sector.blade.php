@@ -1,27 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-
+@foreach ($Sector as $sectors)
 
 <head>
     <meta charset="utf-8">
 
-    <title> Venshaq Holdings – Accelerating Sustainable Business Growth | Treven Cleaners | Shaqs House | Shemaq Productions | Shaqs Farm | Pros Borders | Nairobi, Kenya </title>
-    <meta name=”description” content="Venshaq Holdings Limited is a secured and consolidated privated holding company with a robust portfolio of companies representing a broad range of services and industries. Commercial Cleaners Kenya, Meal Delivery Services, Motion Picture and Film Production, Agri-business, Construction and Supplies, Ngong Rd, Malik Heights, Nairobi – Kenya"/>
+    <title> {{$sectors->raw}} | Venshaq Holdings | {{$sectors->meta}} </title>
+    <meta name=”description” content="{!! html_entity_decode($sectors->content, ENT_QUOTES, 'UTF-8') !!}"/>
     <meta name=”keywords” content="business investment, holding company,business daily, business plan, business ideas, business daily kenya, business whatsapp, business daily Africa, business plan sample, business plan sample pdf, business ideas in kenya, business online, business management, business card, business studies, business cards designs, business name generator, business ethics, business model, business management course,
      business proposal sample, business news kenya, business quotes, investment opportunities in kenya, business model canvas, business administration, business name, investment meaning, business registration in kenya"/>
 
-    <meta name=”author” content="https://www.venshaq.com"/>
-    <link rel="canonical" href="https://venshaq.com"/>
+    <meta name=”author” content="https://www.venshaq.com/sectors/{{$sectors->slung}}"/>
+    <link rel="canonical" href="https://venshaq.com/sectors/{{$sectors->slung}}"/>
 
 
     <meta property="og:description" content="venshaq holding is a private holding company for shemaq productiona, shaqs house and treven cleaners, the short term and long term businesses of the group.">
     <meta property="og:image" content="https://venshaq.com/venshaq/images/Venshaq.png" />
     <meta property="fb:app_id" content="431980657174772" />
-    <meta property="og:title" content="Venshaq Holdings Limited - " />
+    <meta property="og:title" content=" {{$sectors->raw}} | Venshaq Holdings | {{$sectors->meta}}" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://venshaq.com" />
+    <meta property="og:url" content="https://venshaq.com/sectors/{{$sectors->slung}}" />
 
-    <meta name="twitter:title" content="Venshaq Holdings Limited" />
+    <meta name="twitter:title" content=" {{$sectors->raw}} | Venshaq Holdings | {{$sectors->meta}}" />
     <meta name="twitter:site" content="@venshaqholdings" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@venshaqholdings" />
@@ -99,7 +99,7 @@
                                     <li class="scrollToLink"><a href="#about">About</a></li>
                                     <li class="scrollToLink"><a href="#approach">Approach</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
-                                    <li><a href="{{url('/')}}/initiatives">Initiatives</a></li>
+                                    {{-- <li class="scrollToLink"><a href="#team">Team</a></li> --}}
 
                                     {{-- <li class="scrollToLink"><a href="#blog">Blog</a></li> --}}
                                     <li class="scrollToLink"><a href="#contact">Contact</a></li>
@@ -246,8 +246,6 @@
                                         <li class="address"><span class="icon flaticon-pin-1"></span> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
-                                        <li><span class="icon flaticon-call"></span><a href="tel:+254 748 349995">+254 748 349995</a></li>
-
                                         <li><span class="icon flaticon-email-2"></span><a href="mailto:info@venshaq.com">info@venshaq.com</a></li>
                                     </ul>
                                 </div>
@@ -284,7 +282,7 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner clearfix">
-                        <div class="copyright">&copy; Copyright <?php echo date('Y') ?> Venshaq Holdings Limited all rights reserved</div>
+                        <div class="copyright">&copy; copyright <?php echo date('Y') ?> Venshaq Holdings Limited all rights reserved</div>
                     </div>
                 </div>
             </div>
@@ -325,7 +323,7 @@
     {{-- Schema --}}
     @include('front.schema')
     {{-- Schema --}}
-
+@endforeach
 </body>
 
 </html>

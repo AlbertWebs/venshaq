@@ -19,13 +19,6 @@ class HomeController extends Controller
         $Sector = Sector::where('slung',$slung)->get();
         return view('front.sectors',compact('Sector'));
     }
-
-    public function initiatives(){
-
-        return view('front.initiatives');
-    }
-
-
 }
 
 

@@ -22,10 +22,6 @@ Route::get('/', [HomeController::class, 'index'])->name('home-page');
 
 Route::get('/sectors/{slung}', [HomeController::class, 'sectors'])->name('sectors');
 
-Route::get('/initiatives', [HomeController::class, 'initiatives'])->name('initiatives');
-
-
-
 // Route::get('/sectors/{slung}', [HomeController::class, 'commercial_cleaning'])->name('commercial-cleaning');
 // Route::get('/sectors/{construction-and-suppies}', [HomeController::class, 'construction_and_suppies'])->name('construction-and-suppies');
 // Route::get('/sectors/{foot-and-beverages}', [HomeController::class, 'foot_and_beverages'])->name('foot-and-beverages');

@@ -63,32 +63,28 @@
                 {{--  --}}
             </div>
 
-
             <!--Text Column-->
             <div class="text-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        {{-- <h2>Hello!<br>We are Venshaq Holdings, Dedicated to growth & Positive Impact<span class="dot">.</span></h2> --}}
-                        <h2>Empowering Growth, Inspiring Change<span class="dot">.</span></h2>
-                        <div class="lower-text">Established in 2018, Venshaq Holdings is not your typical private holding company. We're visionaries, builders, and advocates for positive change. Our mission goes beyond profits; it's about creating opportunities that drive business growth and elevate lives.
-                        </div>
+                        <h2>Hello!<br>We are Venshaq Holdings, Dedicated to growth & Positive Impact<span class="dot">.</span></h2>
+                        <div class="lower-text">Venshaq Holdings is a private holding company established in 2018. At our establishment, we have secured and consolidated a robust portfolio of companies representing a broad range of services and industries. Our investments are focused on positively impacting communities by creating opportunities that drive business growth and improve lives.  </div>
                     </div>
                     <div class="text">
                         <p>We partner with innovative leaders with unique ideas, strong management teams, and demonstrated ability to help us achieve our strategic goal of a maximum long term return to our shareholders. Our market leading services include: </p>
                     </div>
                     <div class="text clearfix">
                         <ul>
-                            <li>Agri-Business</li>
-                            <li>Food, Beverage and Delivery</li>
-                            <li>Commercial Cleaning & Janitorial Services</li>
+                            <li>Commercial Janitorial Services</li>
                             <li>Motion Picture and Media Production.</li>
+                            <li>Meal Delivery Services</li>
                             <li>Construction and Supplies</li>
-
+                            <li>Agri-Business</li>
                         </ul>
                         <div class="since"><span class="txt">EST. <br>2018</span></div>
                     </div>
                     <div class="link-box scrollToLink">
-                        <a class="theme-btn btn-style-one" href="#approach">
+                        <a class="theme-btn btn-style-one" href="#industries">
                             <i class="btn-curve"></i>
                             <span class="btn-title">Discover Companies</span>
                         </a>
@@ -99,206 +95,24 @@
     </div>
 </section>
 
-<!--Agency Section-->
-<section class="agency-section">
-    <div class="auto-container">
-        <div class="row clearfix">
-            <!--Left Column-->
-            {{-- <div class="left-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
-                <div class="inner">
 
-
-                    <!--Default Tabs-->
-                    <div class="default-tabs tabs-box">
-
-                        <!--Tab Btns-->
-                        <ul class="tab-btns tab-buttons clearfix">
-                            <li data-tab="#tab-1" class="tab-btn active-btn"><span>Our Mission</span></li>
-                            <li data-tab="#tab-2" class="tab-btn"><span>Our Vision</span></li>
-                        </ul>
-
-                        <!--Tabs Container-->
-                        <div class="tabs-content">
-
-                            <!--Tab-->
-                            <div class="tab active-tab" id="tab-1">
-                                <div class="content">
-                                    <div class="text theme-black">Our mission is to enhance, empower, advance and improve the lives of our stakeholders. We strive to create sustainable business growth through the generation of opportunities with greater value and increased returns.</div>
-                                </div>
-                            </div>
-
-                            <!--Tab-->
-                            <div class="tab" id="tab-2">
-                                <div class="content">
-                                    <div class="text theme-black">To build a world-class, robust and diversified holding company that is growth and innovation driven, profitable and provides value to our stakeholders and the communities we serve.</div>
-                                </div>
-                            </div>
-                            <hr>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div> --}}
-            <!--Right Column-->
-            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
-                <div class="inner">
-                    {{--  --}}
-                    <div class="sec-title centered">
-                        <h5>Our Purpose<span class="dot">.</span></h5>
-                    </div>
-                    {{--  --}}
-                    <div class="text theme-black">At Venshaq Holdings, our purpose is clear and unwavering: to transform lives, drive growth, and create lasting value for all our stakeholders. We are dedicated to fostering a sustainable, innovative, and prosperous future.
-                    </div>
-
-                    {{--  --}}
-                    {{--  --}}
-                    <div class="sec-title centered">
-                        <h5>Our Vision<span class="dot">.</span></h5>
-                    </div>
-                    {{--  --}}
-                    <div class="text theme-black">Our vision is to be a world-class, dynamic holding company that stands at the forefront of growth and innovation. We are committed to delivering profitability and meaningful value to our stakeholders while making a positive impact on the communities we serve.
-                    </div>
-
-                    {{--  --}}
-                </div>
-            </div>
-            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
-                <div class="inner">
-                    {{--  --}}
-                    <div class="sec-title centered">
-                        <h5>Our Guiding Principles<span class="dot">.</span></h5>
-                    </div>
-                    {{--  --}}
-                    <div class="text theme-black">At Venshaq Holdings, our guiding principles are the compass that directs our journey. They represent the fundamental values we hold dear, shaping our actions and driving us forward. These principles are the essence of why we exist.
-                    </div>
-                    <div class="text">
-                        <ul class="m-0 list-unstyled feature-six__list values-ul">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Integrity, Trust and Credibility
-                                    </li>
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Results-Oriented
-                                    </li>
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Sustainable Impact
-                                    </li>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Transparency & Accountability
-                                    </li>
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Collaboration
-                                    </li>
-                                    <li class="feature-six__list__item">
-                                        <i class="flaticon-check-symbol"></i>
-                                        Customer-Centric
-                                    </li>
-                                </div>
-                            </div>
-
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!--Services Section-->
 <section class="services-section-three services-section-three__one-page" id="approach">
     <div class="auto-container">
         <div class="sec-title centered">
-            <h2>PORTFOLIO<span class="dot">.</span></h2>
-            {{-- <h3>Our Diverse Portfolio</h3> --}}
-            <h4 style="color:#ffffff">Discover Our Diverse Investment Ecosystem</h4>
-            <h5 class="theme-text">We invest strategically, focusing on businesses and industries where we can attain the highest growth opportunities and advancements. Our diverse portfolio spans a spectrum of industries, each contributing to our vision of a better world. We're proud to lead in:
-                <span class="dot">.</span></h5>
+            <h2>Centers Of Excellence<span class="dot">.</span></h2>
         </div>
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
-
-                <!--Service Block-->
-                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/farming-and-meat-production">Agri-Business</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                 Nurturing sustainable farming practices to feed communities and drive economic growth.
-
-                            </p>
-                            <a href="https://www.shaqsfarm.com" target="new">
-                                www.shaqsfarm.com
-                            </a>
-                            </div>
-                        <div class="link-box"><a href="{{url('/')}}/sectors/farming-and-meat-production"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                 <!--Service Block-->
-                 <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-digital"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food, Beverage & Delivery<br></a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Providing nourishment and convenience that enhances daily lives.
-
-                            </p>
-                            <a href="https://www.shaqshouse.co.ke" target="new">
-                                www.shaqshouse.co.ke
-                            </a>
-                        </div>
-                        <div class="link-box"><a href="{{url('/')}}/sectors/foot-and-beverages"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-
                 <!--Service Block-->
                 <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/commercial-cleaning">Commercial Cleaning &  <br>Janitorial Services</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Elevating hygiene standards to create healthier environments.
-
-                            </p>
-                            <a href="https://www.trevencleanersltd.co.ke" target="new">
-                                www.trevencleanersltd.co.ke
-                            </a>
-                        </div>
-                        <div class="link-box"><a href="{{url('/')}}/sectors/commercial-cleaning"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                  <!--Service Block-->
-                  <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="bottom-curve"></div>
-                        <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/motion-pictures-and-media-production">Motion Picture &<br>Media Production</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Crafting stories that inspire, entertain, and provoke change.
-                            </p>
-                            <a href="https://www.shemaqproductions.com" target="new">
-                                www.shemaqproductions.com
-                            </a>
-                        </div>
-                        <div class="link-box"><a href="{{url('/')}}/sectors/motion-pictures-and-media-production"><span class="fa fa-angle-right"></span></a></div>
+                        <h5><a target="new" href="https://www.trevencleanersltd.co.ke">Commercial <br>Cleaning</a></h5>
+                        {{-- <div class="text">www.trevencleanersltd.co.ke</div> --}}
+                        <div class="link-box"><a href="https://www.trevencleanersltd.co.ke"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
@@ -306,42 +120,65 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/construction-and-supplies">Construction <br>& Supplies</a></h5>
-                        <div class="text">
-                            <p style="color: #ffffff">
-                                Building foundations for progress and development.
-                            </p>
-                            <a href="https://prosborders.co.ke/" target="new">
-                                www.prosborders.co.ke
-                            </a>
-                        </div>
-                        <div class="link-box"><a href="{{url('/')}}/sectors/construction-and-supplies"><span class="fa fa-angle-right"></span></a></div>
+                        <h5><a target="new" href="https://www.pros-borders.com">Construction <br>& Supplies</a></h5>
+                        {{-- <div class="text">
+                            www.pros-borders.com
+                        </div> --}}
+                        <div class="link-box"><a href="https://www.pros-borders.com"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
+
+                <!--Service Block-->
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-digital"></span></div>
+                        <h5><a target="new" href="https://www.shaqhouse.co.ke">Food &<br>Beverage</a></h5>
+                        {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
+                        <div class="link-box"><a href="https://www.shaqshouse.co.ke"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                <!--Service Block-->
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
+                        <h5><a target="new" href="https://www.shemaq.com">Motion Picture &<br>Media Production</a></h5>
+                        {{-- <div class="text">www.shemaq.com</div> --}}
+                        <div class="link-box"><a href="https://www.shemaq.com"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                <!--Service Block-->
+                <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
+                        <h5><a target="new" href="https://www.sheqsfarm.com">Farming &<br>Meat Production</a></h5>
+                        {{-- <div class="text">www.shaqsfarm.com</div> --}}
+                        <div class="link-box"><a href="https://www.shaqsfarm.com"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div>
+
+                <!--Service Block-->
+                {{-- <div class="service-block-two col-xl-4 col-lg-6 col-md-6 col-sm-12" style="margin:0 auto !important">
+                <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
+                        <div class="bottom-curve"></div>
+                        <div class="icon-box"><span class="flaticon-shopping-cart" aria-hidden="true"></span></div>
+                        <h5><a target="new" href="https://www.shaqsbites.com">Shaq's <br>Bites</a></h5>
+                        <div class="text">www.shaqsbites.com</div>
+                        <div class="link-box"><a href="https://www.shaqsbites.com"><span class="fa fa-angle-right"></span></a></div>
+                    </div>
+                </div> --}}
+
+
 
             </div>
         </div>
     </div>
 </section>
 
-<section class="testimonials-six we-do-section" id="portfolio">
-    <div class="sec-title centered">
-        <h2>Approach<span class="dot">.</span></h2>
-
-    </div>
-    <div class="auto-container">
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="testimonials-six__item">
-                        <p class="testimonials-six__content">We explore and seek to acquire a broad range of opportunities in underserved consumer goods and services with strong potential for growth through strategic planning and targeted capital channelling. With the aim of investing in innovation, cultivating creativity and remaining resilient, our accelerator strategy endorses our trial models with direct investments, strengthening our reach in Frontier Markets</p><!-- /.testimonials-six__content -->
-                    </div><!-- /.testimonials-six__item -->
-                </div><!-- /.swiper-slide -->
-            </div><!-- /.swiper-wrapper -->
-        </div><!-- /.swiper-container thm-swiper__slider -->
-        {{-- <hr> --}}
-    </div><!-- /.auto-container -->
-</section><!-- /.testimonials-six -->
 
 
 
@@ -350,28 +187,22 @@
     <div class="auto-container">
         <div class="sec-title centered">
             <h2>Experience us live<span class="dot">.</span></h2>
-            <div class="sec-title centered">
-                <h6 class="theme-text"> Each of our businesses has been championed keeping in mind the hyper-competitive global and regional business arena. We take initiatives to sustain our overall competitive lead by empowering innovative ideas and value systems that are consistent with those of our founders <span class="dot">.</span></h6>
-            </div>
         </div>
         <div class="main-image-box">
             <div class="image-layer" style="background-image: url({{asset('venshaq/images/resource/pexels-christina-morillo-1181406.jpg')}});"></div>
             <div class="inner clearfix">
                 <div class="round-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="round-inner">
-                        {{-- <div class="vid-link">
-                            <a href="#" class="lightbox-image">
+                        <div class="vid-link">
+                            <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="lightbox-image">
                                 <div class="icon"><span class="flaticon-play-button-1"></span><i
                                         class="ripple"></i></div>
                             </a>
-                        </div> --}}
-                        <div class="title">
-                            <h4>Driving Social Good</h4>
-                            <p style="color:#ffffff;">
-                                Beyond balance sheets, we measure success by the lives we uplift. Explore our initiatives and collaborations that reshape communities through innovation, dedication, and collaboration.
-                            </p>
                         </div>
-                        {{-- <div class="more-link scrollToLink"><a href="#about">Read More</a></div> --}}
+                        <div class="title">
+                            <h3>Clients Satisfaction <br>Our Hapiness</h3>
+                        </div>
+                        <div class="more-link scrollToLink"><a href="#about">Read More</a></div>
                     </div>
                 </div>
             </div>
@@ -381,15 +212,151 @@
 
 
 <!--We DO Section-->
-{{-- @include('front.remove') --}}
 <section class="we-do-section" id="portfolio">
-
     <div class="auto-container">
         <div class="row clearfix">
             <!--Left Column-->
             <div class="left-col col-lg-6 col-md-12 col-sm-12">
                 <div class="inner">
+                    <div class="sec-title">
+                        <h2>Creating More <br>In Return<span class="dot">.</span></h2>
+                    </div>
+                    {{-- <div class="featured-block clearfix">
+                        <div class="image"><img src="{{asset('venshaq/images/resource/featured-image-4.jpg')}}" alt=""></div>
+                        <div class="text">There are many variatns of passages the majority have suffered
+                            alteration in some foor randomised words believable.</div>
+                    </div> --}}
+                    <div class="progress-box">
+                        <div class="bar-title">Motion Picture & Media Production</div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Commercial Cleaning </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Farming </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Fast Food Delicacies </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="progress-box">
+                        <div class="bar-title">Construction and Supplies </div>
+                        <div class="bar">
+                            <div class="bar-inner count-bar" data-percent="100%">
+                                <div class="count-box">
+                                    <span class="count-text" data-stop="100" data-speed="1500">0</span>%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <!--Right Column-->
+            <div class="right-col col-lg-6 col-md-12 col-sm-12">
+                <div class="inner">
+                    <div class="faq-box">
+                        <ul class="accordion-box clearfix">
+                            <!--Block-->
+                            {{-- <li class="accordion block active-block"> --}}
+                            <li class="accordion block">
+                                {{-- <div class="acc-btn active"><span class="count">1.</span> Commercial Janitorial Services</div> --}}
+                                <div class="acc-btn"><span class="count">1.</span> Commercial Janitorial Services</div>
+                                <div class="acc-content">
+                                {{-- <div class="acc-content current"> --}}
+                                    <div class="content">
+                                        <div class="text">
+                                            Treven Cleaners Limited, is a full-service janitorial services provider offering comprehensive and professional cleaning solutions that are bespoke, high-quality and pocket-friendly to our residential and corporate clientele alike.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
 
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">2.</span>Motion Picture & Media Production
+                                </div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          Shemaq Productions offers a robust roster of highly experienced directors and producers with distinct yet complementary strengths and passions. Whether it's electronic content distribution, our specialist live event management services or traditional TVCs and documentaries, their end-to-end solutions offer the highest level of creative expertise.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">3.</span> Meal Delivery Services</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           Shaqs House offers meal delivery services for the busy lifestyle. From sell-out favourites to traditional delicacies, our offerings guarantee freshness and keep things interesting with a variety of responsibly sourced, quality ingredients. Shaqs house takes orders from their website and delivers to your home or offices just in time.</div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">4.</span> Agri-business</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            For over a decade, Shaqs Farm has produced healthy, high end food products that go into some of the finest regional recipes. Shaqs Farm is committed to producing quality, value added meat products to all its customers through the procurement, processing, packaging and delivery of premium products.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="count">5.</span> Construction & Supplies</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            Pros Borders Limited, is a multi-disciplinary civil engineering and construction company with proven capabilities over a wide range of different technical fields in the Civil Engineering and Building Works industries, respectively. Over the years, we have helped create, connect and care for the roads, bridges and buildings that bring people and communities together.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <br><br>
+                            {{--  --}}
+
+
+                            {{--  --}}
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -714,25 +681,22 @@
             <!--Sponsors Carousel-->
             <div class="sponsors-carousel owl-theme owl-carousel">
                 <div class="slide-item">
-                    <figure class="image-box"><a href="http://shaqsfarm.com/"><img src="{{asset('venshaq/images/clients/logo-color.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="http://trevencleanersltd.co.ke"><img src="{{asset('venshaq/images/clients/treven.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/house.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="https://shemaqproductions.com/"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
-                </div>
-                <!--<div class="slide-item">-->
-                <!--    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>-->
-                <!--</div>-->
-                <div class="slide-item">
-                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
                 </div>
                 <div class="slide-item">
-                    <figure class="image-box"><a href="https://prosborders.co.ke/"><img src="{{asset('venshaq/images/clients/ProsBorders.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
+                </div>
+                <div class="slide-item">
+                    <figure class="image-box"><a href="#"><img src="{{asset('venshaq/images/clients/ProsBorders.jpg')}}" alt=""></a></figure>
                 </div>
             </div>
         </div>
@@ -831,30 +795,24 @@
                         <div class="lower-text">Get In Touch With Us Today. </div>
 
                     </div>
-                    {{-- <div class="text"><br><br></div> --}}
+                    <div class="text"><br><br></div>
                     <div class="info">
                         <ul>
                             <li class="address">
                                 <span class="icon flaticon-pin-1"></span>
                                 <strong>Visit Us</strong>
-                                Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
+                                Ngong Rd, Malik Heights, 4th Floor Rm 406
                             </li>
                             <li>
                                 <span class="icon flaticon-email-2"></span>
                                 <strong>Email address</strong>
-                                <a href="mailto:info@venshaq.com">info@venshaq.com</a>
+                                <a href="mailto:hello@venshaq.com">hello@venshaq.com</a>
                             </li>
                             <li>
                                 <span class="icon flaticon-call"></span>
                                 <strong>Call now</strong>
                                 <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a>
                             </li>
-                            <li>
-                                <span class="icon flaticon-call"></span>
-                                <strong>Call now</strong>
-                                <a href="tel:+254 748 349995">+254 748 349995</a>
-                            </li>
-
                         </ul>
                     </div>
                 </div>
@@ -931,7 +889,7 @@
 
         <div class="upper-info">
             <div class="row clearfix">
-                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0ms"
+                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>ShemaQ Productions</h5>
@@ -943,9 +901,9 @@
                             </ul>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
-                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
+                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>Shaq's House</h5>
@@ -957,66 +915,23 @@
                             </ul>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
-                <div style="margin:0px auto;" class="info-block col-xl-9 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms"
+                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms"
                     data-wow-duration="1500ms">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="text">
-                                    <h5>ShemaQ Productions</h5>
-                                    <ul class="info">
-                                        <li><a href="mailto:info@shemaqproductions.com">info@shemaqproductions.com</a></li>
-                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                                    </ul>
-                                </div>
-                                <div class="text">
-                                    <h5>Shaq's House</h5>
-                                    <ul class="info">
-                                        <li><a href="mailto:info@shaqshouse.com">info@shaqshouse.com</a></li>
-                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                    <div class="inner-box">
+                        <h5>Treven Cleaners</h5>
+                        <div class="text">
+                            <ul class="info">
+                                <li>Malik Heights, 4th Floor Rm 406</li>
+                                <li><a href="mailto:treven@venshaq.com">treven@venshaq.com</a></li>
+                                <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
+                            </ul>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="text">
-                                    <h5>Treven Cleaners</h5>
-                                    <ul class="info">
-                                        <li><a href="mailto:info@trevencleanersltd.co.ke">info@trevencleanersltd.co.ke</a></li>
-                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                                    </ul>
-                                </div>
-                                <div class="text">
-                                    <h5>Shaqs Farm </h5>
-                                    <ul class="info">
-                                        <li><a href="mailto:info@shaqsfarm.com">info@shaqsfarm.com</a></li>
-                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="text">
-                                    <h5>Pros Borders</h5>
-                                    <ul class="info">
-                                        <li><a href="mailto:info@prosborders.com">info@prosborders.com</a></li>
-                                        <li><a href="tel:666888000">+1 (202) 540 0134</a></li>
-                                    </ul>
-                                </div>
-
-                            </div>
-                        </div>
-
                     </div>
                 </div>
 
-
-
-                {{-- <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
+                <div class="info-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms"
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <h5>Shaqs Farm House</h5>
@@ -1028,7 +943,7 @@
                             </ul>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
             </div>
         </div>

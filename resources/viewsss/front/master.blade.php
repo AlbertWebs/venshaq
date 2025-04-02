@@ -99,7 +99,7 @@
                                     <li class="scrollToLink"><a href="#about">About</a></li>
                                     <li class="scrollToLink"><a href="#approach">Approach</a></li>
                                     <li class="scrollToLink"><a href="#portfolio">Portfolio</a></li>
-                                    <li><a href="{{url('/')}}/initiatives">Initiatives</a></li>
+                                    {{-- <li class="scrollToLink"><a href="#team">Team</a></li> --}}
 
                                     {{-- <li class="scrollToLink"><a href="#blog">Blog</a></li> --}}
                                     <li class="scrollToLink"><a href="#contact">Contact</a></li>
@@ -246,8 +246,6 @@
                                         <li class="address"><span class="icon flaticon-pin-1"></span> Chalbi Condominiums, Ring Road, Kilimani, 5th Floor Suite 5c
                                             Nairobi <br>Kenya</li>
                                         <li><span class="icon flaticon-call"></span><a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a></li>
-                                        <li><span class="icon flaticon-call"></span><a href="tel:+254 748 349995">+254 748 349995</a></li>
-
                                         <li><span class="icon flaticon-email-2"></span><a href="mailto:info@venshaq.com">info@venshaq.com</a></li>
                                     </ul>
                                 </div>

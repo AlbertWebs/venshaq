@@ -69,9 +69,8 @@
                 <div class="inner">
                     <div class="sec-title">
                         {{-- <h2>Hello!<br>We are Venshaq Holdings, Dedicated to growth & Positive Impact<span class="dot">.</span></h2> --}}
-                        <h2>Empowering Growth, Inspiring Change<span class="dot">.</span></h2>
-                        <div class="lower-text">Established in 2018, Venshaq Holdings is not your typical private holding company. We're visionaries, builders, and advocates for positive change. Our mission goes beyond profits; it's about creating opportunities that drive business growth and elevate lives.
-                        </div>
+                        <h2>Dedicated to growth & Positive Impact<span class="dot">.</span></h2>
+                        <div class="lower-text">Venshaq Holdings is a private holding company established in 2018. At our establishment, we have secured and consolidated a robust portfolio of companies representing a broad range of services and industries. Our investments are focused on positively impacting communities by creating opportunities that drive business growth and improve lives.  </div>
                     </div>
                     <div class="text">
                         <p>We partner with innovative leaders with unique ideas, strong management teams, and demonstrated ability to help us achieve our strategic goal of a maximum long term return to our shareholders. Our market leading services include: </p>
@@ -145,11 +144,10 @@
                 <div class="inner">
                     {{--  --}}
                     <div class="sec-title centered">
-                        <h5>Our Purpose<span class="dot">.</span></h5>
+                        <h5>Our Mission<span class="dot">.</span></h5>
                     </div>
                     {{--  --}}
-                    <div class="text theme-black">At Venshaq Holdings, our purpose is clear and unwavering: to transform lives, drive growth, and create lasting value for all our stakeholders. We are dedicated to fostering a sustainable, innovative, and prosperous future.
-                    </div>
+                    <div class="text theme-black">Our mission is to enhance, empower, advance and improve the lives of our stakeholders. We strive to create sustainable business growth through the generation of opportunities with greater value and increased returns.</div>
 
                     {{--  --}}
                     {{--  --}}
@@ -157,8 +155,7 @@
                         <h5>Our Vision<span class="dot">.</span></h5>
                     </div>
                     {{--  --}}
-                    <div class="text theme-black">Our vision is to be a world-class, dynamic holding company that stands at the forefront of growth and innovation. We are committed to delivering profitability and meaningful value to our stakeholders while making a positive impact on the communities we serve.
-                    </div>
+                    <div class="text theme-black">To build a world-class, robust and diversified holding company that is growth and innovation driven, profitable and provides value to our stakeholders and the communities we serve.</div>
 
                     {{--  --}}
                 </div>
@@ -167,11 +164,10 @@
                 <div class="inner">
                     {{--  --}}
                     <div class="sec-title centered">
-                        <h5>Our Guiding Principles<span class="dot">.</span></h5>
+                        <h5>Our Core Values<span class="dot">.</span></h5>
                     </div>
                     {{--  --}}
-                    <div class="text theme-black">At Venshaq Holdings, our guiding principles are the compass that directs our journey. They represent the fundamental values we hold dear, shaping our actions and driving us forward. These principles are the essence of why we exist.
-                    </div>
+                    <div class="text theme-black">Our customer focus is a strong contributor to the overall success of our business ventures. Throughout our business lines, we have developed a personalized approach at all customer touchpoints.</div>
                     <div class="text">
                         <ul class="m-0 list-unstyled feature-six__list values-ul">
                             <div class="row">
@@ -182,7 +178,7 @@
                                     </li>
                                     <li class="feature-six__list__item">
                                         <i class="flaticon-check-symbol"></i>
-                                        Results-Oriented
+                                        Focused on Results
                                     </li>
                                     <li class="feature-six__list__item">
                                         <i class="flaticon-check-symbol"></i>
@@ -200,7 +196,7 @@
                                     </li>
                                     <li class="feature-six__list__item">
                                         <i class="flaticon-check-symbol"></i>
-                                        Customer-Centric
+                                        Customer Focussed
                                     </li>
                                 </div>
                             </div>
@@ -217,11 +213,8 @@
 <section class="services-section-three services-section-three__one-page" id="approach">
     <div class="auto-container">
         <div class="sec-title centered">
-            <h2>PORTFOLIO<span class="dot">.</span></h2>
-            {{-- <h3>Our Diverse Portfolio</h3> --}}
-            <h4 style="color:#ffffff">Discover Our Diverse Investment Ecosystem</h4>
-            <h5 class="theme-text">We invest strategically, focusing on businesses and industries where we can attain the highest growth opportunities and advancements. Our diverse portfolio spans a spectrum of industries, each contributing to our vision of a better world. We're proud to lead in:
-                <span class="dot">.</span></h5>
+            <h2>Centers Of Excellence<span class="dot">.</span></h2>
+            <h5 class="theme-text">We invest where we can attain the highest growth opportunities and advancements, by focussing our investments on businesses in Frontier Markets <span class="dot">.</span></h5>
         </div>
         <div class="services">
             <div class="row clearfix" style="margin:0 auto !important">
@@ -231,16 +224,8 @@
                     <div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-monitor" aria-hidden="true"></span></div>
-                        <h5><a target="new" href="{{url('/')}}/sectors/farming-and-meat-production">Agri-Business</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                 Nurturing sustainable farming practices to feed communities and drive economic growth.
-
-                            </p>
-                            <a href="https://www.shaqsfarm.com" target="new">
-                                www.shaqsfarm.com
-                            </a>
-                            </div>
+                        <h5><a target="new" href="{{url('/')}}/sectors/farming-and-meat-production">Farming &<br>Meat Production</a></h5>
+                        {{-- <div class="text">www.shaqsfarm.com</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/farming-and-meat-production"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -251,15 +236,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital"></span></div>
                         <h5><a target="new" href="{{url('/')}}/sectors/foot-and-beverages">Food, Beverage & Delivery<br></a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Providing nourishment and convenience that enhances daily lives.
-
-                            </p>
-                            <a href="https://www.shaqshouse.co.ke" target="new">
-                                www.shaqshouse.co.ke
-                            </a>
-                        </div>
+                        {{-- <div class="text">www.shaqshouse.co.ke</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/foot-and-beverages"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -271,15 +248,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-vector"></span></div>
                         <h5><a target="new" href="{{url('/')}}/sectors/commercial-cleaning">Commercial Cleaning &  <br>Janitorial Services</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Elevating hygiene standards to create healthier environments.
-
-                            </p>
-                            <a href="https://www.trevencleanersltd.co.ke" target="new">
-                                www.trevencleanersltd.co.ke
-                            </a>
-                        </div>
+                        {{-- <div class="text">www.trevencleanersltd.co.ke</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/commercial-cleaning"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -290,14 +259,7 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
                         <h5><a target="new" href="{{url('/')}}/sectors/motion-pictures-and-media-production">Motion Picture &<br>Media Production</a></h5>
-                        <div class="text">
-                            <p style="color:#ffffff">
-                                Crafting stories that inspire, entertain, and provoke change.
-                            </p>
-                            <a href="https://www.shemaqproductions.com" target="new">
-                                www.shemaqproductions.com
-                            </a>
-                        </div>
+                        {{-- <div class="text">www.shemaq.com</div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/motion-pictures-and-media-production"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
@@ -307,28 +269,24 @@
                         <div class="bottom-curve"></div>
                         <div class="icon-box"><span class="fa fa-wrench"></span></div>
                         <h5><a target="new" href="{{url('/')}}/sectors/construction-and-supplies">Construction <br>& Supplies</a></h5>
-                        <div class="text">
-                            <p style="color: #ffffff">
-                                Building foundations for progress and development.
-                            </p>
-                            <a href="https://prosborders.co.ke/" target="new">
-                                www.prosborders.co.ke
-                            </a>
-                        </div>
+                        {{-- <div class="text">
+                            www.pros-borders.com
+                        </div> --}}
                         <div class="link-box"><a href="{{url('/')}}/sectors/construction-and-supplies"><span class="fa fa-angle-right"></span></a></div>
                     </div>
                 </div>
 
+
+
+
+
             </div>
         </div>
     </div>
+
 </section>
 
 <section class="testimonials-six we-do-section" id="portfolio">
-    <div class="sec-title centered">
-        <h2>Approach<span class="dot">.</span></h2>
-
-    </div>
     <div class="auto-container">
         <div class="swiper-container">
             <div class="swiper-wrapper">
@@ -366,12 +324,9 @@
                             </a>
                         </div> --}}
                         <div class="title">
-                            <h4>Driving Social Good</h4>
-                            <p style="color:#ffffff;">
-                                Beyond balance sheets, we measure success by the lives we uplift. Explore our initiatives and collaborations that reshape communities through innovation, dedication, and collaboration.
-                            </p>
+                            <h4>Committed to Long-term Product and Service Excellence</h4>
                         </div>
-                        {{-- <div class="more-link scrollToLink"><a href="#about">Read More</a></div> --}}
+                        <div class="more-link scrollToLink"><a href="#about">Read More</a></div>
                     </div>
                 </div>
             </div>
@@ -725,9 +680,9 @@
                 <div class="slide-item">
                     <figure class="image-box"><a href="https://shemaqproductions.com/"><img src="{{asset('venshaq/images/clients/shemaq.jpg')}}" alt=""></a></figure>
                 </div>
-                <!--<div class="slide-item">-->
-                <!--    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>-->
-                <!--</div>-->
+                <div class="slide-item">
+                    <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/zone.jpg')}}" alt=""></a></figure>
+                </div>
                 <div class="slide-item">
                     <figure class="image-box"><a href="http://shaqshouse.co.ke/"><img src="{{asset('venshaq/images/clients/shaq.jpg')}}" alt=""></a></figure>
                 </div>
@@ -842,19 +797,13 @@
                             <li>
                                 <span class="icon flaticon-email-2"></span>
                                 <strong>Email address</strong>
-                                <a href="mailto:info@venshaq.com">info@venshaq.com</a>
+                                <a href="mailto:hello@venshaq.com">hello@venshaq.com</a>
                             </li>
                             <li>
                                 <span class="icon flaticon-call"></span>
                                 <strong>Call now</strong>
                                 <a href="tel:+1 (202) 540 0134">+1 (202) 540 0134</a>
                             </li>
-                            <li>
-                                <span class="icon flaticon-call"></span>
-                                <strong>Call now</strong>
-                                <a href="tel:+254 748 349995">+254 748 349995</a>
-                            </li>
-
                         </ul>
                     </div>
                 </div>
